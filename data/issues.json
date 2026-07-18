@@ -1,6 +1,19 @@
 {
   "issues": [
     {
+      "number": 1,
+      "date": "2016-05-28",
+      "title": "《HelloGitHub》第 1 期",
+      "categoryCount": {
+        "CSS": 1,
+        "JavaScript": 3,
+        "Python": 4,
+        "其它": 4,
+        "开源书籍": 5
+      },
+      "totalProjects": 17
+    },
+    {
       "number": 2,
       "date": "2016-06-28",
       "title": "《HelloGitHub》第 2 期",
@@ -11,6 +24,20 @@
         "其它": 1
       },
       "totalProjects": 10
+    },
+    {
+      "number": 3,
+      "date": "2016-07-28",
+      "title": "《HelloGitHub》第 3 期",
+      "categoryCount": {
+        "CSS": 2,
+        "Go": 1,
+        "Java": 1,
+        "JavaScript": 2,
+        "Python": 2,
+        "其它": 1
+      },
+      "totalProjects": 9
     },
     {
       "number": 4,
@@ -124,6 +151,157 @@
         "开源书籍": 1
       },
       "totalProjects": 19
+    },
+    {
+      "number": 11,
+      "date": "2017-03-28",
+      "title": "《HelloGitHub》第 11 期",
+      "categoryCount": {
+        "C": 1,
+        "Go": 2,
+        "Java": 3,
+        "JavaScript": 1,
+        "Python": 3,
+        "Swift": 1,
+        "其它": 3,
+        "开源书籍": 7
+      },
+      "totalProjects": 21
+    },
+    {
+      "number": 12,
+      "date": "2017-04-28",
+      "title": "《HelloGitHub》第 12 期",
+      "categoryCount": {
+        "C": 1,
+        "C#": 1,
+        "Go": 3,
+        "Java": 1,
+        "JavaScript": 4,
+        "Python": 2,
+        "其它": 3,
+        "开源书籍": 3
+      },
+      "totalProjects": 18
+    },
+    {
+      "number": 13,
+      "date": "2017-05-28",
+      "title": "《HelloGitHub》第 13 期",
+      "categoryCount": {
+        "C": 1,
+        "C#": 1,
+        "Go": 2,
+        "Java": 3,
+        "JavaScript": 6,
+        "Objective-C": 2,
+        "Python": 5,
+        "其它": 6,
+        "开源书籍": 2
+      },
+      "totalProjects": 28
+    },
+    {
+      "number": 14,
+      "date": "2017-06-28",
+      "title": "《HelloGitHub》第 14 期",
+      "categoryCount": {
+        "C": 1,
+        "C++": 2,
+        "Go": 3,
+        "Java": 3,
+        "JavaScript": 3,
+        "Objective-C": 1,
+        "PHP": 1,
+        "Python": 3,
+        "Swift": 1,
+        "其它": 5
+      },
+      "totalProjects": 23
+    },
+    {
+      "number": 15,
+      "date": "2017-07-28",
+      "title": "《HelloGitHub》第 15 期",
+      "categoryCount": {
+        "CSS": 1,
+        "Go": 2,
+        "Java": 2,
+        "JavaScript": 4,
+        "Objective-C": 2,
+        "Python": 5,
+        "Ruby": 1,
+        "其它": 4,
+        "开源书籍": 2
+      },
+      "totalProjects": 23
+    },
+    {
+      "number": 16,
+      "date": "2017-08-28",
+      "title": "《HelloGitHub》第 16 期",
+      "categoryCount": {
+        "C": 1,
+        "C#": 2,
+        "C++": 2,
+        "Go": 1,
+        "Java": 3,
+        "JavaScript": 5,
+        "Python": 4,
+        "人工智能": 2,
+        "其它": 5
+      },
+      "totalProjects": 25
+    },
+    {
+      "number": 17,
+      "date": "2017-09-28",
+      "title": "《HelloGitHub》第 17 期",
+      "categoryCount": {
+        "C#": 2,
+        "CSS": 1,
+        "Go": 2,
+        "Java": 3,
+        "JavaScript": 5,
+        "Kotlin": 1,
+        "Python": 5,
+        "人工智能": 2,
+        "其它": 5,
+        "开源书籍": 2
+      },
+      "totalProjects": 28
+    },
+    {
+      "number": 18,
+      "date": "2017-10-28",
+      "title": "《HelloGitHub》第 18 期",
+      "categoryCount": {
+        "C": 1,
+        "CSS": 1,
+        "Go": 2,
+        "Java": 3,
+        "JavaScript": 5,
+        "Python": 1,
+        "人工智能": 1,
+        "其它": 3
+      },
+      "totalProjects": 17
+    },
+    {
+      "number": 19,
+      "date": "2017-11-28",
+      "title": "《HelloGitHub》第 19 期",
+      "categoryCount": {
+        "Go": 1,
+        "Java": 3,
+        "JavaScript": 4,
+        "Kotlin": 1,
+        "PHP": 1,
+        "Python": 4,
+        "其它": 3,
+        "开源书籍": 3
+      },
+      "totalProjects": 20
     },
     {
       "number": 20,
@@ -267,6 +445,24 @@
       "totalProjects": 21
     },
     {
+      "number": 28,
+      "date": "2018-08-28",
+      "title": "《HelloGitHub》第 28 期",
+      "categoryCount": {
+        "C#": 1,
+        "C++": 2,
+        "CSS": 1,
+        "Go": 5,
+        "Java": 3,
+        "JavaScript": 4,
+        "Kotlin": 1,
+        "Python": 1,
+        "其它": 4,
+        "开源书籍": 2
+      },
+      "totalProjects": 24
+    },
+    {
       "number": 29,
       "date": "2018-09-28",
       "title": "《HelloGitHub》第 29 期",
@@ -284,6 +480,60 @@
         "开源书籍": 1
       },
       "totalProjects": 26
+    },
+    {
+      "number": 30,
+      "date": "2018-10-28",
+      "title": "《HelloGitHub》第 30 期",
+      "categoryCount": {
+        "C++": 1,
+        "CSS": 3,
+        "Go": 3,
+        "Java": 1,
+        "JavaScript": 4,
+        "Objective-C": 1,
+        "Python": 2,
+        "Swift": 1,
+        "人工智能": 1,
+        "其它": 4
+      },
+      "totalProjects": 21
+    },
+    {
+      "number": 31,
+      "date": "2018-11-28",
+      "title": "《HelloGitHub》第 31 期",
+      "categoryCount": {
+        "C": 2,
+        "C++": 1,
+        "Go": 4,
+        "Java": 3,
+        "JavaScript": 4,
+        "Python": 3,
+        "Swift": 1,
+        "人工智能": 2,
+        "其它": 4
+      },
+      "totalProjects": 24
+    },
+    {
+      "number": 32,
+      "date": "2018-12-28",
+      "title": "《HelloGitHub》第 32 期",
+      "categoryCount": {
+        "C": 2,
+        "C#": 1,
+        "C++": 1,
+        "Go": 1,
+        "Java": 2,
+        "JavaScript": 4,
+        "Objective-C": 1,
+        "Python": 1,
+        "人工智能": 5,
+        "其它": 5,
+        "开源书籍": 2
+      },
+      "totalProjects": 25
     },
     {
       "number": 33,
@@ -304,6 +554,42 @@
         "开源书籍": 2
       },
       "totalProjects": 33
+    },
+    {
+      "number": 34,
+      "date": "2019-02-28",
+      "title": "《HelloGitHub》第 34 期",
+      "categoryCount": {
+        "C++": 1,
+        "Go": 5,
+        "Java": 2,
+        "JavaScript": 7,
+        "Objective-C": 2,
+        "PHP": 1,
+        "Python": 2,
+        "Swift": 1,
+        "人工智能": 5,
+        "其它": 3
+      },
+      "totalProjects": 29
+    },
+    {
+      "number": 35,
+      "date": "2019-03-28",
+      "title": "《HelloGitHub》第 35 期",
+      "categoryCount": {
+        "C#": 1,
+        "C++": 1,
+        "Go": 3,
+        "Java": 2,
+        "JavaScript": 5,
+        "Objective-C": 1,
+        "Python": 2,
+        "人工智能": 4,
+        "其它": 5,
+        "开源书籍": 3
+      },
+      "totalProjects": 27
     },
     {
       "number": 36,
@@ -385,6 +671,28 @@
         "开源书籍": 1
       },
       "totalProjects": 35
+    },
+    {
+      "number": 40,
+      "date": "2019-08-28",
+      "title": "《HelloGitHub》第 40 期",
+      "categoryCount": {
+        "C": 2,
+        "C#": 1,
+        "C++": 1,
+        "Go": 6,
+        "Java": 4,
+        "JavaScript": 7,
+        "Objective-C": 1,
+        "PHP": 1,
+        "Python": 2,
+        "Ruby": 1,
+        "Swift": 1,
+        "人工智能": 4,
+        "其它": 5,
+        "开源书籍": 2
+      },
+      "totalProjects": 38
     },
     {
       "number": 41,
@@ -799,6 +1107,49 @@
       "totalProjects": 32
     },
     {
+      "number": 62,
+      "date": "2021-06-28",
+      "title": "《HelloGitHub》第 62 期",
+      "categoryCount": {
+        "C": 1,
+        "C#": 2,
+        "C++": 1,
+        "CSS": 2,
+        "Go": 5,
+        "Java": 2,
+        "JavaScript": 4,
+        "Objective-C": 1,
+        "PHP": 1,
+        "Python": 2,
+        "Swift": 3,
+        "人工智能": 1,
+        "其它": 6,
+        "开源书籍": 2
+      },
+      "totalProjects": 33
+    },
+    {
+      "number": 63,
+      "date": "2021-07-28",
+      "title": "《HelloGitHub》第 63 期",
+      "categoryCount": {
+        "C": 1,
+        "C++": 1,
+        "Go": 5,
+        "Java": 4,
+        "JavaScript": 5,
+        "Kotlin": 1,
+        "Python": 3,
+        "Ruby": 1,
+        "Rust": 3,
+        "Swift": 2,
+        "人工智能": 2,
+        "其它": 7,
+        "开源书籍": 2
+      },
+      "totalProjects": 37
+    },
+    {
       "number": 64,
       "date": "2021-08-28",
       "title": "《HelloGitHub》第 64 期",
@@ -887,6 +1238,27 @@
       "totalProjects": 36
     },
     {
+      "number": 68,
+      "date": "2021-12-28",
+      "title": "《HelloGitHub》第 68 期",
+      "categoryCount": {
+        "C": 3,
+        "C#": 2,
+        "C++": 2,
+        "CSS": 1,
+        "Go": 3,
+        "Java": 3,
+        "JavaScript": 4,
+        "Python": 1,
+        "Rust": 1,
+        "Swift": 1,
+        "人工智能": 2,
+        "其它": 6,
+        "开源书籍": 2
+      },
+      "totalProjects": 31
+    },
+    {
       "number": 69,
       "date": "2022-01-28",
       "title": "《HelloGitHub》第 69 期",
@@ -949,6 +1321,28 @@
         "其它": 8
       },
       "totalProjects": 40
+    },
+    {
+      "number": 72,
+      "date": "2022-04-28",
+      "title": "《HelloGitHub》第 72 期",
+      "categoryCount": {
+        "C": 2,
+        "C#": 2,
+        "C++": 1,
+        "CSS": 1,
+        "Go": 4,
+        "Java": 2,
+        "JavaScript": 5,
+        "Kotlin": 1,
+        "Objective-C": 1,
+        "Python": 1,
+        "Swift": 1,
+        "人工智能": 3,
+        "其它": 6,
+        "开源书籍": 2
+      },
+      "totalProjects": 32
     },
     {
       "number": 73,
@@ -2047,5 +2441,5 @@
       "totalProjects": 38
     }
   ],
-  "lastUpdated": "2026-07-18T08:13:05.700Z"
+  "lastUpdated": "2026-07-18T09:26:54.113Z"
 }
