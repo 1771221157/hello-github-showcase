@@ -1,0 +1,38 @@
+[build]
+  publish = "dist"
+
+# 网站通过 GitHub Actions + Netlify CLI 部署
+# Netlify 本身不运行 build command（避免重复调用 GitHub API）
+# 以下配置仅用于声明发布目录和路由规则
+
+# 确保 /about.html 也可以作为 /about 访问
+[[redirects]]
+  from = "/about"
+  to = "/about.html"
+  status = 200
+
+# 确保直接访问子路径时正确加载
+[[redirects]]
+  from = "/languages/*"
+  to = "/languages/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/issues/*"
+  to = "/issues/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/css/*"
+  to = "/css/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/js/*"
+  to = "/js/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/images/*"
+  to = "/images/:splat"
+  status = 200

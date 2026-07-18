@@ -1,0 +1,106 @@
+<%- include('partials/head.html') %>
+<%- include('partials/header.html') %>
+
+<!-- Hero Section -->
+<section class="hero">
+  <div class="hero-bg" style="background-image: url('/images/yimen-hero.png');"></div>
+  <div class="hero-overlay"></div>
+  <div class="container hero-content">
+    <div class="hero-badge">
+      <span class="hero-badge-dot"></span>
+      第 <%= latestIssue.number %> 期 · <%= latestIssue.date %>
+    </div>
+    <h1 class="hero-title">
+      <span class="hero-title-line">星穹开源</span>
+      <span class="hero-title-accent">探索代码宇宙</span>
+    </h1>
+    <p class="hero-subtitle">HelloGitHub 月刊内容自动同步，按语言分类浏览和搜索</p>
+    <div class="hero-actions">
+      <a href="/issues/<%= latestIssue.number %>.html" class="btn btn-primary">
+        <span>🔮</span> 浏览最新期刊
+      </a>
+      <a href="/languages/" class="btn btn-secondary">
+        <span>🌐</span> 按语言探索
+      </a>
+    </div>
+    <div class="hero-stats">
+      <div class="hero-stat">
+        <span class="hero-stat-num"><%= typeof totalIssues !== 'undefined' ? totalIssues : latestIssue.number %></span>
+        <span class="hero-stat-label">期刊</span>
+      </div>
+      <div class="hero-stat">
+        <span class="hero-stat-num"><%= typeof totalProjects !== 'undefined' ? totalProjects.toLocaleString() : featuredProjects.length %></span>
+        <span class="hero-stat-label">项目</span>
+      </div>
+      <div class="hero-stat">
+        <span class="hero-stat-num"><%= allLanguages.length %></span>
+        <span class="hero-stat-label">语言</span>
+      </div>
+    </div>
+  </div>
+  <div class="hero-scroll-hint">
+    <span>探索</span>
+    <div class="scroll-arrow"></div>
+  </div>
+</section>
+
+<!-- Language Navigation -->
+<section class="section languages-section">
+  <div class="container">
+    <div class="section-header">
+      <h2 class="section-title">编程语言</h2>
+      <p class="section-desc">按编程语言分类浏览</p>
+      <a href="/languages/" class="section-link">查看全部 →</a>
+    </div>
+    <div class="lang-grid">
+      <% allLanguages.slice(0, 12).forEach(function(lang) { %>
+        <a href="/languages/<%= lang.slug %>.html" class="lang-card">
+          <div class="lang-card-glow"></div>
+          <span class="lang-emoji"><%= lang.emoji %></span>
+          <span class="lang-name"><%= lang.name %></span>
+          <span class="lang-count"><%= lang.count %> 个项目</span>
+        </a>
+      <% }); %>
+    </div>
+  </div>
+</section>
+
+<!-- Featured Projects -->
+<section class="section featured-section">
+  <div class="container">
+    <div class="section-header">
+      <h2 class="section-title">本期精选</h2>
+      <p class="section-desc">第 <%= latestIssue.number %> 期 — 发布于 <%= latestIssue.date %></p>
+      <a href="/issues/<%= latestIssue.number %>.html" class="section-link">查看完整期刊 →</a>
+    </div>
+    <div class="project-grid">
+      <% featuredProjects.forEach(function(project) { %>
+        <%- include('partials/project-card', { project: project }) %>
+      <% }); %>
+    </div>
+  </div>
+</section>
+
+<!-- Recent Issues -->
+<section class="section issues-section">
+  <div class="container">
+    <div class="section-header">
+      <h2 class="section-title">历史期刊</h2>
+      <p class="section-desc">往期期刊归档</p>
+      <a href="/issues/" class="section-link">全部归档 →</a>
+    </div>
+    <div class="issues-list">
+      <% recentIssues.forEach(function(issue) { %>
+        <a href="/issues/<%= issue.number %>.html" class="issue-row">
+          <span class="issue-num">#<%= issue.number %></span>
+          <span class="issue-date"><%= issue.date %></span>
+          <span class="issue-title"><%= issue.title %></span>
+          <span class="issue-count"><%= issue.totalProjects %> 个项目</span>
+          <span class="issue-arrow">→</span>
+        </a>
+      <% }); %>
+    </div>
+  </div>
+</section>
+
+<%- include('partials/footer.html') %>

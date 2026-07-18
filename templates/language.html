@@ -1,0 +1,60 @@
+<%- include('partials/head.html') %>
+<%- include('partials/header.html') %>
+
+<section class="page-hero">
+  <div class="container">
+    <% if (isIndex) { %>
+      <h1 class="page-title">编程语言</h1>
+      <p class="page-desc">共 <%= languages.length %> 种语言</p>
+      <div class="lang-grid" style="margin-top: 2rem;">
+        <% languages.forEach(function(lang) { %>
+          <a href="/languages/<%= lang.slug %>.html" class="lang-card">
+            <div class="lang-card-glow"></div>
+            <span class="lang-emoji"><%= lang.emoji %></span>
+            <span class="lang-name"><%= lang.name %></span>
+            <span class="lang-count"><%= lang.count %> 个项目</span>
+          </a>
+        <% }); %>
+      </div>
+    <% } else { %>
+      <a href="/languages/" class="back-link">← 返回语言列表</a>
+      <div class="language-header">
+        <span class="language-emoji-large"><%= language.emoji %></span>
+        <div>
+          <h1 class="page-title"><%= language.name %> 项目</h1>
+          <p class="page-desc">共 <%= language.count %> 个项目 · 首次出现于第 <%= language.firstIssue %> 期</p>
+        </div>
+      </div>
+
+      <div class="search-bar">
+        <svg class="search-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+        <input type="text" id="project-search" placeholder="搜索项目名称或描述..." autocomplete="off">
+      </div>
+
+      <div class="project-grid" id="project-grid">
+        <% projects.forEach(function(project, idx) { %>
+          <div class="project-card-wrapper <%= idx >= 30 ? 'project-card--hidden' : '' %>">
+            <%- include('partials/project-card', { project: project }) %>
+          </div>
+        <% }); %>
+      </div>
+
+      <% if (projects.length > 30) { %>
+        <div class="load-more-wrap">
+          <button class="btn btn-primary" id="load-more-btn">
+            加载更多项目 (<span id="remaining-count"><%= projects.length - 30 %></span>)
+          </button>
+        </div>
+      <% } %>
+
+      <% if (projects.length === 0) { %>
+        <div class="empty-state">
+          <span class="empty-icon">🔍</span>
+          <p>暂无该语言的项目</p>
+        </div>
+      <% } %>
+    <% } %>
+  </div>
+</section>
+
+<%- include('partials/footer.html') %>

@@ -1,0 +1,66 @@
+<%- include('partials/head.html') %>
+<%- include('partials/header.html') %>
+
+<section class="page-hero">
+  <div class="container">
+    <% if (isArchive) { %>
+      <h1 class="page-title">期刊归档</h1>
+      <p class="page-desc">HelloGitHub 历史期刊完整列表</p>
+
+      <% Object.keys(issuesByYear).sort().reverse().forEach(function(year) { %>
+        <div class="year-section">
+          <h2 class="year-title"><%= year %></h2>
+          <div class="issues-list">
+            <% issuesByYear[year].forEach(function(issue) { %>
+              <a href="/issues/<%= issue.number %>.html" class="issue-row">
+                <span class="issue-num">#<%= issue.number %></span>
+                <span class="issue-date"><%= issue.date %></span>
+                <span class="issue-title"><%= issue.title %></span>
+                <span class="issue-count"><%= issue.totalProjects %> 个项目</span>
+                <span class="issue-arrow">→</span>
+              </a>
+            <% }); %>
+          </div>
+        </div>
+      <% }); %>
+
+    <% } else { %>
+      <a href="/issues/" class="back-link">← 返回归档</a>
+      <div class="issue-hero">
+        <h1 class="page-title"><%= issue.title %></h1>
+        <p class="page-desc">发布于 <%= issue.date %> · 共 <%= issue.totalProjects %> 个项目 · <%= Object.keys(issue.categories).length %> 个分类</p>
+
+        <!-- 快速跳转导航 -->
+        <div class="category-nav">
+          <% Object.keys(issue.categories).forEach(function(cat) { %>
+            <a href="#cat-<%= cat.toLowerCase().replace(/\s+/g, '-') %>" class="category-nav-link">
+              <%= getLanguageEmoji(cat) %> <%= cat %>
+              <span class="cat-count"><%= issue.categories[cat].length %></span>
+            </a>
+          <% }); %>
+        </div>
+      </div>
+
+      <!-- 按分类展示项目 -->
+      <% Object.entries(issue.categories).forEach(function([catName, projects]) { %>
+        <div class="category-section" id="cat-<%= catName.toLowerCase().replace(/\s+/g, '-') %>">
+          <h2 class="category-title">
+            <span><%= getLanguageEmoji(catName) %></span>
+            <%= catName %>
+            <span class="category-count"><%= projects.length %> 个项目</span>
+          </h2>
+          <div class="project-grid">
+            <% projects.forEach(function(project) { %>
+              <%- include('partials/project-card', { project: project }) %>
+            <% }); %>
+          </div>
+          <p style="text-align:center;margin-top:1rem;">
+            <a href="#top" class="btn btn-secondary" style="font-size:0.85rem;">↑ 返回顶部</a>
+          </p>
+        </div>
+      <% }); %>
+    <% } %>
+  </div>
+</section>
+
+<%- include('partials/footer.html') %>
