@@ -134,10 +134,26 @@ function parseProjectsInSection(content, startIndex, nextStartIndex) {
 }
 
 /**
+ * 解析 HelloGitHub 跟踪链接，提取真实的 GitHub URL
+ * 格式: https://hellogithub.com/periodical/statistics/click?target=https://github.com/owner/repo
+ */
+function resolveRedirectUrl(url) {
+  try {
+    const parsed = new URL(url);
+    if (parsed.hostname === 'hellogithub.com' && parsed.searchParams.has('target')) {
+      return parsed.searchParams.get('target');
+    }
+  } catch {
+    // URL 解析失败，返回原始值
+  }
+  return url;
+}
+
+/**
  * 规范化 GitHub URL
  */
 function normalizeUrl(url) {
-  return url
+  return resolveRedirectUrl(url)
     .replace(/\/$/, '')           // 去掉尾部斜杠
     .replace(/\.git$/, '')        // 去掉 .git 后缀
     .replace(/^git\+/, '')        // 去掉 git+ 前缀
@@ -148,7 +164,9 @@ function normalizeUrl(url) {
  * 从 GitHub URL 提取 owner/repo
  */
 function extractRepoId(url) {
-  const match = url.match(/github\.com\/([^/]+\/[^/]+?)(?:\/|$)/);
+  // 先解析跟踪链接，获取真实 GitHub URL
+  const realUrl = resolveRedirectUrl(url);
+  const match = realUrl.match(/github\.com\/([^/]+\/[^/]+?)(?:\/|$)/);
   return match ? match[1] : null;
 }
 
