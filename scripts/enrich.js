@@ -34,9 +34,9 @@ function saveStarCache(cache) {
 }
 
 /**
- * 为单个仓库获取 star 数
+ * 为单个仓库获取 star 数和 forks 数
  */
-async function fetchRepoStars(owner, repo, token) {
+async function fetchRepoStats(owner, repo, token) {
   const headers = {
     'Accept': 'application/vnd.github.v3+json',
     'User-Agent': 'HelloGitHub-Showcase/1.0'
@@ -61,7 +61,11 @@ async function fetchRepoStars(owner, repo, token) {
   if (!res.ok) return null;
 
   const data = await res.json();
-  return data.stargazers_count || 0;
+  return {
+    stars: data.stargazers_count || 0,
+    forks: data.forks_count || 0,
+    watchers: data.subscribers_count || 0
+  };
 }
 
 /**
@@ -100,6 +104,7 @@ export async function enrichProjects(projects, token) {
     // 检查缓存
     if (cache[key] && (now - cache[key].ts < CACHE_TTL)) {
       project.stars = cache[key].stars;
+      project.forks = cache[key].forks;
       project.owner = repoInfo.owner;
       project.repo = repoInfo.repo;
       cached++;
@@ -117,28 +122,29 @@ export async function enrichProjects(projects, token) {
     const batch = toFetch.slice(i, i + BATCH);
     const results = await Promise.all(
       batch.map(({ key, repoInfo }) =>
-        fetchRepoStars(repoInfo.owner, repoInfo.repo, token).then(stars => ({ key, stars }))
+        fetchRepoStats(repoInfo.owner, repoInfo.repo, token).then(stats => ({ key, stats }))
       )
     );
 
-    for (const { key, stars } of results) {
-      if (stars === -1) {
+    for (const { key, stats } of results) {
+      if (stats === -1) {
         rateLimited = true;
-        failed += batch.length - results.indexOf({ key, stars });
+        failed += batch.length - results.indexOf({ key, stats });
         break;
       }
-      if (stars !== null && stars !== undefined) {
-        cache[key] = { stars, ts: now };
+      if (stats !== null && stats !== undefined) {
+        cache[key] = { stars: stats.stars, forks: stats.forks, ts: now };
         enriched++;
       } else {
         failed++;
       }
     }
 
-    // 更新对应 project 的 stars
+    // 更新对应 project 的 stars 和 forks
     for (const { project, key } of batch) {
       if (cache[key]) {
         project.stars = cache[key].stars;
+        project.forks = cache[key].forks;
       }
     }
 
