@@ -30,14 +30,29 @@ function extractIssueNumber(content) {
 /**
  * 推断期刊日期（HelloGitHub 每月 28 号发布）
  * Issue 1 = 2016-05-28
+ *
+ * 注意：上游内容可能提前提交到仓库（在正式发布日期之前），
+ * 因此如果推断日期落在未来，自动回退到上一个月，
+ * 避免网站展示尚未到来的日期。
  */
 function inferIssueDate(issueNum) {
   const BASE_YEAR = 2016;
   const BASE_MONTH = 5; // 第1期 = 2016年5月
 
   const totalMonths = (BASE_YEAR * 12 + BASE_MONTH - 1) + (issueNum - 1);
-  const year = Math.floor(totalMonths / 12);
-  const month = (totalMonths % 12) + 1;
+  let year = Math.floor(totalMonths / 12);
+  let month = (totalMonths % 12) + 1;
+
+  // 如果推断日期在未来，回退到上一个有效月份
+  const today = new Date();
+  const inferredDate = new Date(year, month - 1, 28);
+  if (inferredDate > today) {
+    month -= 1;
+    if (month < 1) {
+      month = 12;
+      year -= 1;
+    }
+  }
 
   return `${year}-${String(month).padStart(2, '0')}-28`;
 }
