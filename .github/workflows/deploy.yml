@@ -3,7 +3,6 @@ name: Build and Deploy to Netlify
 on:
   schedule:
     - cron: '0 0 29 * *'     # 每月 29 号（HelloGitHub 28 号发布）
-    - cron: '7 6 * * *'       # 每天早 6:07 巡检新期刊
   workflow_dispatch:           # 手动触发
   push:
     branches: [main]
