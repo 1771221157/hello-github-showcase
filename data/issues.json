@@ -2439,7 +2439,28 @@
         "其它": 4
       },
       "totalProjects": 38
+    },
+    {
+      "number": 124,
+      "date": "2026-07-28",
+      "title": "《HelloGitHub》第 124 期",
+      "categoryCount": {
+        "C": 2,
+        "C#": 2,
+        "C++": 1,
+        "Go": 4,
+        "Java": 1,
+        "JavaScript": 5,
+        "Python": 5,
+        "Rust": 2,
+        "Skills": 3,
+        "Swift": 3,
+        "人工智能": 5,
+        "其它": 5,
+        "开源书籍": 2
+      },
+      "totalProjects": 40
     }
   ],
-  "lastUpdated": "2026-07-18T13:35:31.793Z"
+  "lastUpdated": "2026-08-07T02:55:49.898Z"
 }
