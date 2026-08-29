@@ -2460,7 +2460,28 @@
         "开源书籍": 2
       },
       "totalProjects": 40
+    },
+    {
+      "number": 125,
+      "date": "2026-08-28",
+      "title": "《HelloGitHub》第 125 期",
+      "categoryCount": {
+        "C": 1,
+        "C#": 3,
+        "C++": 2,
+        "Go": 4,
+        "Java": 2,
+        "JavaScript": 4,
+        "Kotlin": 1,
+        "Python": 4,
+        "Rust": 3,
+        "Skills": 4,
+        "Swift": 2,
+        "人工智能": 5,
+        "其它": 5
+      },
+      "totalProjects": 40
     }
   ],
-  "lastUpdated": "2026-08-07T02:55:49.898Z"
+  "lastUpdated": "2026-08-29T04:54:17.095Z"
 }
