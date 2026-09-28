@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-28T07:51:54.225Z",
+  "lastUpdated": "2026-09-28T07:53:48.259Z",
   "issues": [
     {
       "number": 1,
@@ -2482,6 +2482,25 @@
         "其它": 5
       },
       "totalProjects": 40
+    },
+    {
+      "number": 126,
+      "date": "2026-09-28",
+      "title": "《HelloGitHub》第 126 期",
+      "categoryCount": {
+        "C": 1,
+        "C#": 3,
+        "C++": 1,
+        "Go": 4,
+        "JavaScript": 5,
+        "Python": 5,
+        "Rust": 3,
+        "Skills": 4,
+        "Swift": 4,
+        "人工智能": 5,
+        "其它": 4
+      },
+      "totalProjects": 39
     }
   ]
 }

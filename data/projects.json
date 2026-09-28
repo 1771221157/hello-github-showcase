@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-09-28T07:51:54.208Z",
-  "totalIssues": 125,
-  "totalProjects": 3952,
+  "lastUpdated": "2026-09-28T07:53:48.239Z",
+  "totalIssues": 126,
+  "totalProjects": 3991,
   "issues": [
     {
       "number": 1,
@@ -58422,8 +58422,8 @@
             "language": "C",
             "issueNumber": 124,
             "issueDate": "2026-07-28",
-            "stars": 4747,
-            "forks": 572
+            "stars": 4845,
+            "forks": 606
           },
           {
             "id": "henrypp/simplewall",
@@ -58435,8 +58435,8 @@
             "language": "C",
             "issueNumber": 124,
             "issueDate": "2026-07-28",
-            "stars": 8891,
-            "forks": 645
+            "stars": 9068,
+            "forks": 661
           }
         ],
         "C#": [
@@ -58450,8 +58450,8 @@
             "language": "C#",
             "issueNumber": 124,
             "issueDate": "2026-07-28",
-            "stars": 5656,
-            "forks": 197
+            "stars": 6212,
+            "forks": 223
           },
           {
             "id": "Orbmu2k/nvidiaProfileInspector",
@@ -58463,8 +58463,8 @@
             "language": "C#",
             "issueNumber": 124,
             "issueDate": "2026-07-28",
-            "stars": 7105,
-            "forks": 385
+            "stars": 7321,
+            "forks": 392
           }
         ],
         "C++": [
@@ -58478,8 +58478,8 @@
             "language": "C++",
             "issueNumber": 124,
             "issueDate": "2026-07-28",
-            "stars": 11459,
-            "forks": 973
+            "stars": 11616,
+            "forks": 980
           }
         ],
         "Go": [
@@ -58493,8 +58493,8 @@
             "language": "Go",
             "issueNumber": 124,
             "issueDate": "2026-07-28",
-            "stars": 6309,
-            "forks": 547
+            "stars": 7459,
+            "forks": 628
           },
           {
             "id": "tamnd/kage",
@@ -58506,8 +58506,8 @@
             "language": "Go",
             "issueNumber": 124,
             "issueDate": "2026-07-28",
-            "stars": 3334,
-            "forks": 126
+            "stars": 3444,
+            "forks": 132
           },
           {
             "id": "overflowy/make-look-scanned",
@@ -58519,8 +58519,8 @@
             "language": "Go",
             "issueNumber": 124,
             "issueDate": "2026-07-28",
-            "stars": 778,
-            "forks": 40
+            "stars": 818,
+            "forks": 43
           },
           {
             "id": "zabbix/zabbix",
@@ -58532,8 +58532,8 @@
             "language": "Go",
             "issueNumber": 124,
             "issueDate": "2026-07-28",
-            "stars": 6317,
-            "forks": 1256
+            "stars": 6420,
+            "forks": 1262
           }
         ],
         "Java": [
@@ -58547,8 +58547,8 @@
             "language": "Java",
             "issueNumber": 124,
             "issueDate": "2026-07-28",
-            "stars": 4658,
-            "forks": 3539
+            "stars": 4767,
+            "forks": 3606
           }
         ],
         "JavaScript": [
@@ -58562,8 +58562,8 @@
             "language": "JavaScript",
             "issueNumber": 124,
             "issueDate": "2026-07-28",
-            "stars": 12560,
-            "forks": 1069
+            "stars": 13471,
+            "forks": 1161
           },
           {
             "id": "ssnangua/ColorTxt",
@@ -58575,8 +58575,8 @@
             "language": "JavaScript",
             "issueNumber": 124,
             "issueDate": "2026-07-28",
-            "stars": 1492,
-            "forks": 88
+            "stars": 1798,
+            "forks": 111
           },
           {
             "id": "karakeep-app/karakeep",
@@ -58588,8 +58588,8 @@
             "language": "JavaScript",
             "issueNumber": 124,
             "issueDate": "2026-07-28",
-            "stars": 28650,
-            "forks": 1462
+            "stars": 29323,
+            "forks": 1539
           },
           {
             "id": "JOYCEQL/magic-resume",
@@ -58601,8 +58601,8 @@
             "language": "JavaScript",
             "issueNumber": 124,
             "issueDate": "2026-07-28",
-            "stars": 10264,
-            "forks": 1113
+            "stars": 10852,
+            "forks": 1155
           },
           {
             "id": "liketrek/TREK",
@@ -58614,8 +58614,8 @@
             "language": "JavaScript",
             "issueNumber": 124,
             "issueDate": "2026-07-28",
-            "stars": 12935,
-            "forks": 1118
+            "stars": 14415,
+            "forks": 1250
           }
         ],
         "Python": [
@@ -58629,8 +58629,8 @@
             "language": "Python",
             "issueNumber": 124,
             "issueDate": "2026-07-28",
-            "stars": 5784,
-            "forks": 432
+            "stars": 6065,
+            "forks": 472
           },
           {
             "id": "newren/git-filter-repo",
@@ -58642,8 +58642,8 @@
             "language": "Python",
             "issueNumber": 124,
             "issueDate": "2026-07-28",
-            "stars": 13196,
-            "forks": 997
+            "stars": 13338,
+            "forks": 1008
           },
           {
             "id": "Hypostasis-Cat/HypoMux",
@@ -58655,8 +58655,8 @@
             "language": "Python",
             "issueNumber": 124,
             "issueDate": "2026-07-28",
-            "stars": 3266,
-            "forks": 114
+            "stars": 3687,
+            "forks": 130
           },
           {
             "id": "msgspec/msgspec",
@@ -58668,8 +58668,8 @@
             "language": "Python",
             "issueNumber": 124,
             "issueDate": "2026-07-28",
-            "stars": 4066,
-            "forks": 180
+            "stars": 4130,
+            "forks": 196
           },
           {
             "id": "BigDawnGhost/wenyi",
@@ -58681,8 +58681,8 @@
             "language": "Python",
             "issueNumber": 124,
             "issueDate": "2026-07-28",
-            "stars": 2398,
-            "forks": 186
+            "stars": 2680,
+            "forks": 206
           }
         ],
         "Rust": [
@@ -58696,8 +58696,8 @@
             "language": "Rust",
             "issueNumber": 124,
             "issueDate": "2026-07-28",
-            "stars": 14777,
-            "forks": 586
+            "stars": 15991,
+            "forks": 687
           },
           {
             "id": "ogulcancelik/herdr",
@@ -58709,8 +58709,8 @@
             "language": "Rust",
             "issueNumber": 124,
             "issueDate": "2026-07-28",
-            "stars": 33229,
-            "forks": 2401
+            "stars": 41087,
+            "forks": 3156
           }
         ],
         "Skills": [
@@ -58724,8 +58724,8 @@
             "language": "Skills",
             "issueNumber": 124,
             "issueDate": "2026-07-28",
-            "stars": 28070,
-            "forks": 1776
+            "stars": 73071,
+            "forks": 4935
           },
           {
             "id": "bradautomates/claude-video",
@@ -58737,8 +58737,8 @@
             "language": "Skills",
             "issueNumber": 124,
             "issueDate": "2026-07-28",
-            "stars": 16418,
-            "forks": 1632
+            "stars": 17758,
+            "forks": 1829
           },
           {
             "id": "Nutlope/hallmark",
@@ -58750,8 +58750,8 @@
             "language": "Skills",
             "issueNumber": 124,
             "issueDate": "2026-07-28",
-            "stars": 27444,
-            "forks": 1400
+            "stars": 29231,
+            "forks": 1501
           }
         ],
         "Swift": [
@@ -58765,8 +58765,8 @@
             "language": "Swift",
             "issueNumber": 124,
             "issueDate": "2026-07-28",
-            "stars": 559,
-            "forks": 21
+            "stars": 594,
+            "forks": 25
           },
           {
             "id": "peetzweg/opendisplay",
@@ -58778,8 +58778,8 @@
             "language": "Swift",
             "issueNumber": 124,
             "issueDate": "2026-07-28",
-            "stars": 2592,
-            "forks": 189
+            "stars": 4847,
+            "forks": 322
           },
           {
             "id": "gechr/WhichSpace",
@@ -58791,8 +58791,8 @@
             "language": "Swift",
             "issueNumber": 124,
             "issueDate": "2026-07-28",
-            "stars": 812,
-            "forks": 44
+            "stars": 840,
+            "forks": 45
           }
         ],
         "人工智能": [
@@ -58806,8 +58806,8 @@
             "language": "人工智能",
             "issueNumber": 124,
             "issueDate": "2026-07-28",
-            "stars": 30972,
-            "forks": 2818
+            "stars": 31819,
+            "forks": 2911
           },
           {
             "id": "gastownhall/gastown",
@@ -58819,8 +58819,8 @@
             "language": "人工智能",
             "issueNumber": 124,
             "issueDate": "2026-07-28",
-            "stars": 17828,
-            "forks": 1642
+            "stars": 18206,
+            "forks": 1674
           },
           {
             "id": "harbor-framework/harbor",
@@ -58832,8 +58832,8 @@
             "language": "人工智能",
             "issueNumber": 124,
             "issueDate": "2026-07-28",
-            "stars": 4753,
-            "forks": 1681
+            "stars": 5654,
+            "forks": 1872
           },
           {
             "id": "calesthio/OpenMontage",
@@ -58845,8 +58845,8 @@
             "language": "人工智能",
             "issueNumber": 124,
             "issueDate": "2026-07-28",
-            "stars": 53435,
-            "forks": 6660
+            "stars": 61617,
+            "forks": 7840
           },
           {
             "id": "dottxt-ai/outlines",
@@ -58858,8 +58858,8 @@
             "language": "人工智能",
             "issueNumber": 124,
             "issueDate": "2026-07-28",
-            "stars": 15710,
-            "forks": 868
+            "stars": 15888,
+            "forks": 888
           }
         ],
         "其它": [
@@ -58873,8 +58873,8 @@
             "language": "其它",
             "issueNumber": 124,
             "issueDate": "2026-07-28",
-            "stars": 7404,
-            "forks": 1564
+            "stars": 8094,
+            "forks": 1893
           },
           {
             "id": "hasaneyldrm/exercises-dataset",
@@ -58886,8 +58886,8 @@
             "language": "其它",
             "issueNumber": 124,
             "issueDate": "2026-07-28",
-            "stars": 21070,
-            "forks": 2659
+            "stars": 22369,
+            "forks": 2860
           },
           {
             "id": "lollipopkit/flutter_server_box",
@@ -58899,8 +58899,8 @@
             "language": "其它",
             "issueNumber": 124,
             "issueDate": "2026-07-28",
-            "stars": 8612,
-            "forks": 546
+            "stars": 8750,
+            "forks": 561
           },
           {
             "id": "Younesfdj/gitfut",
@@ -58912,8 +58912,8 @@
             "language": "其它",
             "issueNumber": 124,
             "issueDate": "2026-07-28",
-            "stars": 2552,
-            "forks": 136
+            "stars": 2617,
+            "forks": 142
           },
           {
             "id": "jamesob/local-llm",
@@ -58925,8 +58925,8 @@
             "language": "其它",
             "issueNumber": 124,
             "issueDate": "2026-07-28",
-            "stars": 1809,
-            "forks": 107
+            "stars": 1848,
+            "forks": 104
           }
         ],
         "开源书籍": [
@@ -58940,8 +58940,8 @@
             "language": "开源书籍",
             "issueNumber": 124,
             "issueDate": "2026-07-28",
-            "stars": 43039,
-            "forks": 4765
+            "stars": 51421,
+            "forks": 5781
           },
           {
             "id": "alxndrTL/little-book-rl",
@@ -58953,8 +58953,8 @@
             "language": "开源书籍",
             "issueNumber": 124,
             "issueDate": "2026-07-28",
-            "stars": 1561,
-            "forks": 78
+            "stars": 1654,
+            "forks": 93
           }
         ]
       }
@@ -58991,8 +58991,8 @@
             "language": "C",
             "issueNumber": 125,
             "issueDate": "2026-08-28",
-            "stars": 13700,
-            "forks": 2192
+            "stars": 14149,
+            "forks": 2246
           }
         ],
         "C#": [
@@ -59006,8 +59006,8 @@
             "language": "C#",
             "issueNumber": 125,
             "issueDate": "2026-08-28",
-            "stars": 1733,
-            "forks": 122
+            "stars": 5680,
+            "forks": 301
           },
           {
             "id": "Tyrrrz/DiscordChatExporter",
@@ -59019,8 +59019,8 @@
             "language": "C#",
             "issueNumber": 125,
             "issueDate": "2026-08-28",
-            "stars": 11872,
-            "forks": 1010
+            "stars": 12096,
+            "forks": 1027
           },
           {
             "id": "luolangaga/tubatools",
@@ -59032,8 +59032,8 @@
             "language": "C#",
             "issueNumber": 125,
             "issueDate": "2026-08-28",
-            "stars": 2720,
-            "forks": 78
+            "stars": 4398,
+            "forks": 118
           }
         ],
         "C++": [
@@ -59047,8 +59047,8 @@
             "language": "C++",
             "issueNumber": 125,
             "issueDate": "2026-08-28",
-            "stars": 1784,
-            "forks": 161
+            "stars": 1977,
+            "forks": 176
           },
           {
             "id": "fooyin/fooyin",
@@ -59060,8 +59060,8 @@
             "language": "C++",
             "issueNumber": 125,
             "issueDate": "2026-08-28",
-            "stars": 2296,
-            "forks": 97
+            "stars": 2482,
+            "forks": 103
           }
         ],
         "Go": [
@@ -59075,8 +59075,8 @@
             "language": "Go",
             "issueNumber": 125,
             "issueDate": "2026-08-28",
-            "stars": 1263,
-            "forks": 94
+            "stars": 1359,
+            "forks": 102
           },
           {
             "id": "amacneil/dbmate",
@@ -59088,8 +59088,8 @@
             "language": "Go",
             "issueNumber": 125,
             "issueDate": "2026-08-28",
-            "stars": 7257,
-            "forks": 369
+            "stars": 7417,
+            "forks": 379
           },
           {
             "id": "loft-sh/devpod",
@@ -59101,8 +59101,8 @@
             "language": "Go",
             "issueNumber": 125,
             "issueDate": "2026-08-28",
-            "stars": 15134,
-            "forks": 578
+            "stars": 15242,
+            "forks": 586
           },
           {
             "id": "asciimoo/hister",
@@ -59114,8 +59114,8 @@
             "language": "Go",
             "issueNumber": 125,
             "issueDate": "2026-08-28",
-            "stars": 3197,
-            "forks": 146
+            "stars": 5772,
+            "forks": 251
           }
         ],
         "Java": [
@@ -59129,8 +59129,8 @@
             "language": "Java",
             "issueNumber": 125,
             "issueDate": "2026-08-28",
-            "stars": 2166,
-            "forks": 297
+            "stars": 2335,
+            "forks": 310
           },
           {
             "id": "grimmory-tools/grimmory",
@@ -59142,8 +59142,8 @@
             "language": "Java",
             "issueNumber": 125,
             "issueDate": "2026-08-28",
-            "stars": 4130,
-            "forks": 308
+            "stars": 4443,
+            "forks": 331
           }
         ],
         "JavaScript": [
@@ -59157,8 +59157,8 @@
             "language": "JavaScript",
             "issueNumber": 125,
             "issueDate": "2026-08-28",
-            "stars": 4040,
-            "forks": 224
+            "stars": 4303,
+            "forks": 241
           },
           {
             "id": "gpujs/gpu.js",
@@ -59170,8 +59170,8 @@
             "language": "JavaScript",
             "issueNumber": 125,
             "issueDate": "2026-08-28",
-            "stars": 15401,
-            "forks": 663
+            "stars": 15476,
+            "forks": 665
           },
           {
             "id": "achrefelouafi/LinearAbiltyCastingThreeJS",
@@ -59183,8 +59183,8 @@
             "language": "JavaScript",
             "issueNumber": 125,
             "issueDate": "2026-08-28",
-            "stars": 782,
-            "forks": 157
+            "stars": 952,
+            "forks": 190
           },
           {
             "id": "s010s/prehistoric-animal-museum",
@@ -59196,8 +59196,8 @@
             "language": "JavaScript",
             "issueNumber": 125,
             "issueDate": "2026-08-28",
-            "stars": 743,
-            "forks": 102
+            "stars": 1063,
+            "forks": 134
           }
         ],
         "Kotlin": [
@@ -59211,8 +59211,8 @@
             "language": "Kotlin",
             "issueNumber": 125,
             "issueDate": "2026-08-28",
-            "stars": 902,
-            "forks": 24
+            "stars": 1556,
+            "forks": 55
           }
         ],
         "Python": [
@@ -59226,8 +59226,8 @@
             "language": "Python",
             "issueNumber": 125,
             "issueDate": "2026-08-28",
-            "stars": 32972,
-            "forks": 3472
+            "stars": 35135,
+            "forks": 3701
           },
           {
             "id": "87owo/PYAS",
@@ -59239,8 +59239,8 @@
             "language": "Python",
             "issueNumber": 125,
             "issueDate": "2026-08-28",
-            "stars": 483,
-            "forks": 44
+            "stars": 556,
+            "forks": 49
           },
           {
             "id": "jhd3197/ServerKit",
@@ -59252,8 +59252,8 @@
             "language": "Python",
             "issueNumber": 125,
             "issueDate": "2026-08-28",
-            "stars": 964,
-            "forks": 100
+            "stars": 1673,
+            "forks": 166
           },
           {
             "id": "guillaumemeyer/watermarks-remover",
@@ -59265,8 +59265,8 @@
             "language": "Python",
             "issueNumber": 125,
             "issueDate": "2026-08-28",
-            "stars": 19095,
-            "forks": 2220
+            "stars": 22974,
+            "forks": 2637
           }
         ],
         "Rust": [
@@ -59280,8 +59280,8 @@
             "language": "Rust",
             "issueNumber": 125,
             "issueDate": "2026-08-28",
-            "stars": 4954,
-            "forks": 282
+            "stars": 5319,
+            "forks": 306
           },
           {
             "id": "agavra/tuicr",
@@ -59293,8 +59293,8 @@
             "language": "Rust",
             "issueNumber": 125,
             "issueDate": "2026-08-28",
-            "stars": 2954,
-            "forks": 240
+            "stars": 3230,
+            "forks": 275
           },
           {
             "id": "huanfeng/WindInput",
@@ -59306,8 +59306,8 @@
             "language": "Rust",
             "issueNumber": 125,
             "issueDate": "2026-08-28",
-            "stars": 417,
-            "forks": 28
+            "stars": 909,
+            "forks": 50
           }
         ],
         "Skills": [
@@ -59321,8 +59321,8 @@
             "language": "Skills",
             "issueNumber": 125,
             "issueDate": "2026-08-28",
-            "stars": 6757,
-            "forks": 637
+            "stars": 8912,
+            "forks": 801
           },
           {
             "id": "plannotator/effective-html",
@@ -59334,8 +59334,8 @@
             "language": "Skills",
             "issueNumber": 125,
             "issueDate": "2026-08-28",
-            "stars": 2684,
-            "forks": 190
+            "stars": 3308,
+            "forks": 223
           },
           {
             "id": "ayghri/i-have-adhd",
@@ -59347,8 +59347,8 @@
             "language": "Skills",
             "issueNumber": 125,
             "issueDate": "2026-08-28",
-            "stars": 25386,
-            "forks": 1600
+            "stars": 51692,
+            "forks": 2981
           },
           {
             "id": "helloianneo/ian-xiaohei-illustrations",
@@ -59360,8 +59360,8 @@
             "language": "Skills",
             "issueNumber": 125,
             "issueDate": "2026-08-28",
-            "stars": 10524,
-            "forks": 1283
+            "stars": 12160,
+            "forks": 1410
           }
         ],
         "Swift": [
@@ -59375,8 +59375,8 @@
             "language": "Swift",
             "issueNumber": 125,
             "issueDate": "2026-08-28",
-            "stars": 1398,
-            "forks": 56
+            "stars": 1913,
+            "forks": 81
           },
           {
             "id": "sarensw/MacPacker",
@@ -59388,8 +59388,8 @@
             "language": "Swift",
             "issueNumber": 125,
             "issueDate": "2026-08-28",
-            "stars": 651,
-            "forks": 30
+            "stars": 797,
+            "forks": 36
           }
         ],
         "人工智能": [
@@ -59403,8 +59403,8 @@
             "language": "人工智能",
             "issueNumber": 125,
             "issueDate": "2026-08-28",
-            "stars": 26754,
-            "forks": 2771
+            "stars": 32808,
+            "forks": 3428
           },
           {
             "id": "deepseek-ai/deepseek-harness",
@@ -59416,8 +59416,8 @@
             "language": "人工智能",
             "issueNumber": 125,
             "issueDate": "2026-08-28",
-            "stars": 202293,
-            "forks": 23275
+            "stars": 238158,
+            "forks": 28619
           },
           {
             "id": "can1357/oh-my-pi",
@@ -59429,8 +59429,8 @@
             "language": "人工智能",
             "issueNumber": 125,
             "issueDate": "2026-08-28",
-            "stars": 28166,
-            "forks": 2813
+            "stars": 33545,
+            "forks": 3587
           },
           {
             "id": "pipecat-ai/pipecat",
@@ -59442,8 +59442,8 @@
             "language": "人工智能",
             "issueNumber": 125,
             "issueDate": "2026-08-28",
-            "stars": 14919,
-            "forks": 2577
+            "stars": 15930,
+            "forks": 2768
           },
           {
             "id": "backnotprop/plannotator",
@@ -59455,8 +59455,8 @@
             "language": "人工智能",
             "issueNumber": 125,
             "issueDate": "2026-08-28",
-            "stars": 8191,
-            "forks": 608
+            "stars": 9017,
+            "forks": 678
           }
         ],
         "其它": [
@@ -59470,8 +59470,8 @@
             "language": "其它",
             "issueNumber": 125,
             "issueDate": "2026-08-28",
-            "stars": 467,
-            "forks": 23
+            "stars": 502,
+            "forks": 24
           },
           {
             "id": "IHaskell/IHaskell",
@@ -59483,7 +59483,7 @@
             "language": "其它",
             "issueNumber": 125,
             "issueDate": "2026-08-28",
-            "stars": 2655,
+            "stars": 2660,
             "forks": 267
           },
           {
@@ -59496,8 +59496,8 @@
             "language": "其它",
             "issueNumber": 125,
             "issueDate": "2026-08-28",
-            "stars": 500,
-            "forks": 60
+            "stars": 1815,
+            "forks": 152
           },
           {
             "id": "FriesI23/mhabit",
@@ -59509,8 +59509,8 @@
             "language": "其它",
             "issueNumber": 125,
             "issueDate": "2026-08-28",
-            "stars": 1500,
-            "forks": 87
+            "stars": 1609,
+            "forks": 98
           },
           {
             "id": "GXFG/newtab-naivetab",
@@ -59522,8 +59522,558 @@
             "language": "其它",
             "issueNumber": 125,
             "issueDate": "2026-08-28",
-            "stars": 113,
-            "forks": 11
+            "stars": 136,
+            "forks": 13
+          }
+        ]
+      }
+    },
+    {
+      "number": 126,
+      "date": "2026-09-28",
+      "title": "《HelloGitHub》第 126 期",
+      "categoryCount": {
+        "C": 1,
+        "C#": 3,
+        "C++": 1,
+        "Go": 4,
+        "JavaScript": 5,
+        "Python": 5,
+        "Rust": 3,
+        "Skills": 4,
+        "Swift": 4,
+        "人工智能": 5,
+        "其它": 4
+      },
+      "totalProjects": 39,
+      "categories": {
+        "C": [
+          {
+            "id": "armory3d/armorpaint",
+            "name": "armorpaint",
+            "fullName": "armory3d/armorpaint",
+            "githubUrl": "https://github.com/armory3d/armorpaint",
+            "description": "3D 模型纹理绘制工具。这是一款 3D PBR 纹理绘制工具，直接拖入模型即可开始编辑并实时预览。它提供节点编辑器和 UV 编辑，支持 OBJ、FBX、Blend、glTF 等模型格式，适用于 Windows、Linux 和 macOS 等平台。",
+            "fullDescription": "3D 模型纹理绘制工具。这是一款 3D PBR 纹理绘制工具，直接拖入模型即可开始编辑并实时预览。它提供节点编辑器和 UV 编辑，支持 OBJ、FBX、Blend、glTF 等模型格式，适用于 Windows、Linux 和 macOS 等平台。",
+            "language": "C",
+            "issueNumber": 126,
+            "issueDate": "2026-09-28",
+            "stars": 5232,
+            "forks": 591
+          }
+        ],
+        "C#": [
+          {
+            "id": "RayrenSX/iPhoneMirror",
+            "name": "iPhoneMirror",
+            "fullName": "RayrenSX/iPhoneMirror",
+            "githubUrl": "https://github.com/RayrenSX/iPhoneMirror",
+            "description": "Windows 上的 iPhone 投屏工具。这是一款 Windows 本地投屏工具，可通过 USB 或 AirPlay 传输 iPhone/iPad 画面和声音，支持多设备、独立窗口、截图、OBS、蓝牙鼠标和键盘控制。",
+            "fullDescription": "Windows 上的 iPhone 投屏工具。这是一款 Windows 本地投屏工具，可通过 USB 或 AirPlay 传输 iPhone/iPad 画面和声音，支持多设备、独立窗口、截图、OBS、蓝牙鼠标和键盘控制。",
+            "language": "C#",
+            "issueNumber": 126,
+            "issueDate": "2026-09-28",
+            "stars": 862,
+            "forks": 59
+          },
+          {
+            "id": "QL-Win/QuickLook",
+            "name": "QuickLook",
+            "fullName": "QL-Win/QuickLook",
+            "githubUrl": "https://github.com/QL-Win/QuickLook",
+            "description": "Windows 的空格键快速预览工具。这是一款 Windows 文件预览工具，提供类似 macOS 快速预览文件的功能，支持图片、视频、文档、代码、压缩包和 3D 模型等 100 多种格式。",
+            "fullDescription": "Windows 的空格键快速预览工具。这是一款 Windows 文件预览工具，提供类似 macOS 快速预览文件的功能，支持图片、视频、文档、代码、压缩包和 3D 模型等 100 多种格式。",
+            "language": "C#",
+            "issueNumber": 126,
+            "issueDate": "2026-09-28",
+            "stars": 25010,
+            "forks": 1329
+          },
+          {
+            "id": "RankFTW/RHI",
+            "name": "RHI",
+            "fullName": "RankFTW/RHI",
+            "githubUrl": "https://github.com/RankFTW/RHI",
+            "description": "一键为游戏开启 HDR 的工具。这是一款 Windows 的游戏画质增强工具，能够自动扫描游戏并一键安装 ReShade 和对应的 HDR 模组，支持切换 DLSS 版本、自动开关系统 HDR、限制帧率和管理 NVIDIA 驱动配置。",
+            "fullDescription": "一键为游戏开启 HDR 的工具。这是一款 Windows 的游戏画质增强工具，能够自动扫描游戏并一键安装 ReShade 和对应的 HDR 模组，支持切换 DLSS 版本、自动开关系统 HDR、限制帧率和管理 NVIDIA 驱动配置。",
+            "language": "C#",
+            "issueNumber": 126,
+            "issueDate": "2026-09-28",
+            "stars": 1804,
+            "forks": 58
+          }
+        ],
+        "C++": [
+          {
+            "id": "flameshot-org/flameshot",
+            "name": "flameshot",
+            "fullName": "flameshot-org/flameshot",
+            "githubUrl": "https://github.com/flameshot-org/flameshot",
+            "description": "开源的跨平台截图工具。这是一款基于 C++ 和 Qt 开发的截图工具，可在截图上直接添加箭头、文字、形状和马赛克，支持延时截图、复制到剪贴板、上传到 Imgur 等功能，适用于 Windows、macOS 和 Linux 系统。",
+            "fullDescription": "开源的跨平台截图工具。这是一款基于 C++ 和 Qt 开发的截图工具，可在截图上直接添加箭头、文字、形状和马赛克，支持延时截图、复制到剪贴板、上传到 Imgur 等功能，适用于 Windows、macOS 和 Linux 系统。",
+            "language": "C++",
+            "issueNumber": 126,
+            "issueDate": "2026-09-28",
+            "stars": 30970,
+            "forks": 2032
+          }
+        ],
+        "Go": [
+          {
+            "id": "bilirec/bilirec",
+            "name": "bilirec",
+            "fullName": "bilirec/bilirec",
+            "githubUrl": "https://github.com/bilirec/bilirec",
+            "description": "适用于低配设备的 B 站直播录制工具。该项目是专为低配设备优化的 B 站直播录制工具，内存占用极少。它内置 Web 管理界面，支持开播自动录制、自动分段、断流重连和自动转 MP4 等功能。来自 [@Eric Lam](https://hellogithub.com/user/Me6XL3PIKp4o7Oq) 的分享",
+            "fullDescription": "适用于低配设备的 B 站直播录制工具。该项目是专为低配设备优化的 B 站直播录制工具，内存占用极少。它内置 Web 管理界面，支持开播自动录制、自动分段、断流重连和自动转 MP4 等功能。来自 [@Eric Lam](https://hellogithub.com/user/Me6XL3PIKp4o7Oq) 的分享",
+            "language": "Go",
+            "issueNumber": 126,
+            "issueDate": "2026-09-28",
+            "stars": 44,
+            "forks": 5
+          },
+          {
+            "id": "rakyll/hey",
+            "name": "hey",
+            "fullName": "rakyll/hey",
+            "githubUrl": "https://github.com/rakyll/hey",
+            "description": "小巧的 HTTP 压测工具。这是一款用 Go 编写的 Web 压测命令行工具，能够按请求数和并发数向目标地址发送请求，并输出吞吐量、延迟分布和状态码等统计结果，支持按时长压测、HTTP/2、自定义请求方法和请求头等功能。",
+            "fullDescription": "小巧的 HTTP 压测工具。这是一款用 Go 编写的 Web 压测命令行工具，能够按请求数和并发数向目标地址发送请求，并输出吞吐量、延迟分布和状态码等统计结果，支持按时长压测、HTTP/2、自定义请求方法和请求头等功能。",
+            "language": "Go",
+            "issueNumber": 126,
+            "issueDate": "2026-09-28",
+            "stars": 20324,
+            "forks": 1308
+          },
+          {
+            "id": "kserve/kserve",
+            "name": "kserve",
+            "fullName": "kserve/kserve",
+            "githubUrl": "https://github.com/kserve/kserve",
+            "description": "K8s 上的 AI 模型推理平台。该项目是基于 K8s 的 AI 推理平台，支持 vLLM 后端和 OpenAI 兼容接口，可部署 TensorFlow、PyTorch、scikit-learn、ONNX 等多种框架的模型，并提供自动扩缩容、灰度发布和模型监控等功能。",
+            "fullDescription": "K8s 上的 AI 模型推理平台。该项目是基于 K8s 的 AI 推理平台，支持 vLLM 后端和 OpenAI 兼容接口，可部署 TensorFlow、PyTorch、scikit-learn、ONNX 等多种框架的模型，并提供自动扩缩容、灰度发布和模型监控等功能。",
+            "language": "Go",
+            "issueNumber": 126,
+            "issueDate": "2026-09-28",
+            "stars": 6028,
+            "forks": 1706
+          },
+          {
+            "id": "Jinnrry/PMail",
+            "name": "PMail",
+            "fullName": "Jinnrry/PMail",
+            "githubUrl": "https://github.com/Jinnrry/PMail",
+            "description": "一分钟搭建个人域名邮箱。该项目是用 Go 编写的个人邮件服务器，仅需一台服务器和域名，就能部署自己的域名邮箱。它开箱即用、体积小、占用资源少，内置邮件收发服务和 Web 管理界面，支持 SMTP、POP3、IMAP 协议，以及多域名、多用户和 HTTPS 证书自动续期等功能。来自 [@壮士2nowz](https://hellogithub.com/user/iB4jClpaKd591ox) 的分享",
+            "fullDescription": "一分钟搭建个人域名邮箱。该项目是用 Go 编写的个人邮件服务器，仅需一台服务器和域名，就能部署自己的域名邮箱。它开箱即用、体积小、占用资源少，内置邮件收发服务和 Web 管理界面，支持 SMTP、POP3、IMAP 协议，以及多域名、多用户和 HTTPS 证书自动续期等功能。来自 [@壮士2nowz](https://hellogithub.com/user/iB4jClpaKd591ox) 的分享",
+            "language": "Go",
+            "issueNumber": 126,
+            "issueDate": "2026-09-28",
+            "stars": 2112,
+            "forks": 237
+          }
+        ],
+        "JavaScript": [
+          {
+            "id": "sirmalloc/ccstatusline",
+            "name": "ccstatusline",
+            "fullName": "sirmalloc/ccstatusline",
+            "githubUrl": "https://github.com/sirmalloc/ccstatusline",
+            "description": "Claude Code 的状态栏定制工具。这是一款专为 Claude Code 设计的状态栏工具，可在底部实时显示当前模型、Git 分支、Token 用量、上下文占比、每周额度和会话时长等信息。它内置交互式配置界面，支持自定义显示项、多行状态栏和导出配置。",
+            "fullDescription": "Claude Code 的状态栏定制工具。这是一款专为 Claude Code 设计的状态栏工具，可在底部实时显示当前模型、Git 分支、Token 用量、上下文占比、每周额度和会话时长等信息。它内置交互式配置界面，支持自定义显示项、多行状态栏和导出配置。",
+            "language": "JavaScript",
+            "issueNumber": 126,
+            "issueDate": "2026-09-28",
+            "stars": 13071,
+            "forks": 583
+          },
+          {
+            "id": "riba2534/claude-opus-5-5-demo",
+            "name": "claude-opus-5-5-demo",
+            "fullName": "riba2534/claude-opus-5-5-demo",
+            "githubUrl": "https://github.com/riba2534/claude-opus-5-5-demo",
+            "description": "一句提示词生成的 3D 网页游戏。该项目是 Claude Opus 5.5 代码生成实测的产物，包含鹈鹕骑车、射击和赛车三款 3D 网页游戏。每个游戏仅用一句提示词，由模型自主完成开发、测试和部署，源码没有人工改动过一行。",
+            "fullDescription": "一句提示词生成的 3D 网页游戏。该项目是 Claude Opus 5.5 代码生成实测的产物，包含鹈鹕骑车、射击和赛车三款 3D 网页游戏。每个游戏仅用一句提示词，由模型自主完成开发、测试和部署，源码没有人工改动过一行。",
+            "language": "JavaScript",
+            "issueNumber": 126,
+            "issueDate": "2026-09-28",
+            "stars": 857,
+            "forks": 127
+          },
+          {
+            "id": "tianma-if/edgeever",
+            "name": "edgeever",
+            "fullName": "tianma-if/edgeever",
+            "githubUrl": "https://github.com/tianma-if/edgeever",
+            "description": "AI 原生的个人笔记应用。这是一款开源的笔记与知识库应用，采用印象笔记经典的三栏布局，可零成本部署在 Cloudflare 上。它提供 REST API、MCP 和 CLI 接口，适配 Claude Code 等 AI 智能体读取和整理笔记，支持多设备同步、Mermaid 图表、版本历史、Markdown 和富文本等功能。来自 [@tianma-if](https://hellogithub.com/user/TWNAjisURpnhL1l) 的分享",
+            "fullDescription": "AI 原生的个人笔记应用。这是一款开源的笔记与知识库应用，采用印象笔记经典的三栏布局，可零成本部署在 Cloudflare 上。它提供 REST API、MCP 和 CLI 接口，适配 Claude Code 等 AI 智能体读取和整理笔记，支持多设备同步、Mermaid 图表、版本历史、Markdown 和富文本等功能。来自 [@tianma-if](https://hellogithub.com/user/TWNAjisURpnhL1l) 的分享",
+            "language": "JavaScript",
+            "issueNumber": 126,
+            "issueDate": "2026-09-28",
+            "stars": 1620,
+            "forks": 901
+          },
+          {
+            "id": "davatron5000/microlighter",
+            "name": "microlighter",
+            "fullName": "davatron5000/microlighter",
+            "githubUrl": "https://github.com/davatron5000/microlighter",
+            "description": "零依赖的代码高亮库。该项目是基于 CSS Highlight API 的网页代码高亮库，无需为每个 Token 插入 span 标签，让 DOM 结构更简洁。它压缩后仅约 2KB，内置 10 套主题，支持 30 多种编程语言、可编辑代码块和自动高亮等功能。",
+            "fullDescription": "零依赖的代码高亮库。该项目是基于 CSS Highlight API 的网页代码高亮库，无需为每个 Token 插入 span 标签，让 DOM 结构更简洁。它压缩后仅约 2KB，内置 10 套主题，支持 30 多种编程语言、可编辑代码块和自动高亮等功能。",
+            "language": "JavaScript",
+            "issueNumber": 126,
+            "issueDate": "2026-09-28",
+            "stars": 956,
+            "forks": 29
+          },
+          {
+            "id": "OpenMouse-Project/openmouse",
+            "name": "openmouse",
+            "fullName": "OpenMouse-Project/openmouse",
+            "githubUrl": "https://github.com/OpenMouse-Project/openmouse",
+            "description": "免装驱动的网页版游戏鼠标设置工具。这是一款基于浏览器的游戏鼠标控制面板，连接鼠标后即可查看设备信息，调整 DPI、回报率等设置，不用安装驱动软件。它通过 WebHID 与鼠标通信，支持罗技、雷蛇、海盗船、HyperX、VGN、ATK 等品牌的鼠标。来自 [@Snekxs](https://hellogithub.com/user/uP7UCjJpVTvEOtK) 的分享",
+            "fullDescription": "免装驱动的网页版游戏鼠标设置工具。这是一款基于浏览器的游戏鼠标控制面板，连接鼠标后即可查看设备信息，调整 DPI、回报率等设置，不用安装驱动软件。它通过 WebHID 与鼠标通信，支持罗技、雷蛇、海盗船、HyperX、VGN、ATK 等品牌的鼠标。来自 [@Snekxs](https://hellogithub.com/user/uP7UCjJpVTvEOtK) 的分享",
+            "language": "JavaScript",
+            "issueNumber": 126,
+            "issueDate": "2026-09-28",
+            "stars": 2046,
+            "forks": 132
+          }
+        ],
+        "Python": [
+          {
+            "id": "ChenLiu-1996/figures4papers",
+            "name": "figures4papers",
+            "fullName": "ChenLiu-1996/figures4papers",
+            "githubUrl": "https://github.com/ChenLiu-1996/figures4papers",
+            "description": "绘制论文配图的 Python 脚本集合。该项目是一套用于制作论文配图的工具，内含 Python 脚本和 AI Skills，支持绘制对比柱状图、构成分解图、趋势图等多种学术图表。",
+            "fullDescription": "绘制论文配图的 Python 脚本集合。该项目是一套用于制作论文配图的工具，内含 Python 脚本和 AI Skills，支持绘制对比柱状图、构成分解图、趋势图等多种学术图表。",
+            "language": "Python",
+            "issueNumber": 126,
+            "issueDate": "2026-09-28",
+            "stars": 7609,
+            "forks": 541
+          },
+          {
+            "id": "flet-dev/flet",
+            "name": "flet",
+            "fullName": "flet-dev/flet",
+            "githubUrl": "https://github.com/flet-dev/flet",
+            "description": "用 Python 开发跨平台应用的框架。该项目是基于 Flutter 的 Python 应用开发框架，只用 Python 就能构建 Web、桌面和移动应用，支持 iOS、Android、Windows、macOS、Linux 和浏览器。它内置 Material 和 Cupertino 风格组件，可在移动应用中使用 NumPy、pandas 等库，并能通过一条命令打包发布到 App Store 和 Google Play。来自 [@小小修真者](https://hellogithub.com/user/OJpriDKTWlq0ZHI) 的分享",
+            "fullDescription": "用 Python 开发跨平台应用的框架。该项目是基于 Flutter 的 Python 应用开发框架，只用 Python 就能构建 Web、桌面和移动应用，支持 iOS、Android、Windows、macOS、Linux 和浏览器。它内置 Material 和 Cupertino 风格组件，可在移动应用中使用 NumPy、pandas 等库，并能通过一条命令打包发布到 App Store 和 Google Play。来自 [@小小修真者](https://hellogithub.com/user/OJpriDKTWlq0ZHI) 的分享",
+            "language": "Python",
+            "issueNumber": 126,
+            "issueDate": "2026-09-28",
+            "stars": 17138,
+            "forks": 712
+          },
+          {
+            "id": "kr8s-org/kr8s",
+            "name": "kr8s",
+            "fullName": "kr8s-org/kr8s",
+            "githubUrl": "https://github.com/kr8s-org/kr8s",
+            "description": "用 Python 轻松操作 K8s。这是一个受 kubectl 启发的 K8s Python 客户端库，熟悉 kubectl 命令即可快速上手。它提供同步和异步 API，支持获取资源、扩缩容、创建 Pod 和端口转发等常用操作。来自 [@Jacob Tomlinson](https://hellogithub.com/user/rstODH7ZkI9jBiv) 的分享",
+            "fullDescription": "用 Python 轻松操作 K8s。这是一个受 kubectl 启发的 K8s Python 客户端库，熟悉 kubectl 命令即可快速上手。它提供同步和异步 API，支持获取资源、扩缩容、创建 Pod 和端口转发等常用操作。来自 [@Jacob Tomlinson](https://hellogithub.com/user/rstODH7ZkI9jBiv) 的分享",
+            "language": "Python",
+            "issueNumber": 126,
+            "issueDate": "2026-09-28",
+            "stars": 976,
+            "forks": 71
+          },
+          {
+            "id": "WooHooDai/linkding-cn",
+            "name": "linkding-cn",
+            "fullName": "WooHooDai/linkding-cn",
+            "githubUrl": "https://github.com/WooHooDai/linkding-cn",
+            "description": "中文版书签管理与稍后读工具。该项目是基于 linkding 二次开发的书签管理和稍后读工具，内置简体中文界面。它支持网页快照、正文提取、高亮批注、拼音标签搜索和数据看板，部署简单开箱即用。来自 [@WooHooDai](https://hellogithub.com/user/hLYeZsyoBVnDaRG) 的分享",
+            "fullDescription": "中文版书签管理与稍后读工具。该项目是基于 linkding 二次开发的书签管理和稍后读工具，内置简体中文界面。它支持网页快照、正文提取、高亮批注、拼音标签搜索和数据看板，部署简单开箱即用。来自 [@WooHooDai](https://hellogithub.com/user/hLYeZsyoBVnDaRG) 的分享",
+            "language": "Python",
+            "issueNumber": 126,
+            "issueDate": "2026-09-28",
+            "stars": 371,
+            "forks": 16
+          },
+          {
+            "id": "r0x0r/pywebview",
+            "name": "pywebview",
+            "fullName": "r0x0r/pywebview",
+            "githubUrl": "https://github.com/r0x0r/pywebview",
+            "description": "用 Web 技术打造 Python 桌面应用。这是一个轻量级的 Python 原生 WebView 封装库，可用网页技术构建原生窗口，实现前端与 Python 双向通信。它复用系统网页组件，生成的程序体积小，适用于 Windows、macOS、Linux 和 Android。来自 [@Davin](https://hellogithub.com/user/DTmJxh36kafUy2R) 的分享",
+            "fullDescription": "用 Web 技术打造 Python 桌面应用。这是一个轻量级的 Python 原生 WebView 封装库，可用网页技术构建原生窗口，实现前端与 Python 双向通信。它复用系统网页组件，生成的程序体积小，适用于 Windows、macOS、Linux 和 Android。来自 [@Davin](https://hellogithub.com/user/DTmJxh36kafUy2R) 的分享",
+            "language": "Python",
+            "issueNumber": 126,
+            "issueDate": "2026-09-28",
+            "stars": 6054,
+            "forks": 637
+          }
+        ],
+        "Rust": [
+          {
+            "id": "Canop/broot",
+            "name": "broot",
+            "fullName": "Canop/broot",
+            "githubUrl": "https://github.com/Canop/broot",
+            "description": "更好用的 tree 命令替代工具。这是一款用 Rust 编写的终端目录浏览工具，能够以精简的目录树展示大型文件夹，并自动忽略 .gitignore 中的文件。它支持模糊搜索、正则表达式和搜索文件内容，输入几个字母即可跳转到目标目录。还提供多面板文件操作、文件预览、批量命令执行和自定义快捷键等功能，可替代 tree 和 ls 命令。",
+            "fullDescription": "更好用的 tree 命令替代工具。这是一款用 Rust 编写的终端目录浏览工具，能够以精简的目录树展示大型文件夹，并自动忽略 .gitignore 中的文件。它支持模糊搜索、正则表达式和搜索文件内容，输入几个字母即可跳转到目标目录。还提供多面板文件操作、文件预览、批量命令执行和自定义快捷键等功能，可替代 tree 和 ls 命令。",
+            "language": "Rust",
+            "issueNumber": 126,
+            "issueDate": "2026-09-28",
+            "stars": 13000,
+            "forks": 319
+          },
+          {
+            "id": "sharkdp/numbat",
+            "name": "numbat",
+            "fullName": "sharkdp/numbat",
+            "githubUrl": "https://github.com/sharkdp/numbat",
+            "description": "能自动换算物理单位的计算器。这是一款兼具编程语言能力的科学计算器，专为带物理单位的科学计算设计。支持单位换算、自定义单位、常数和函数计算，可在命令行或浏览器中使用。",
+            "fullDescription": "能自动换算物理单位的计算器。这是一款兼具编程语言能力的科学计算器，专为带物理单位的科学计算设计。支持单位换算、自定义单位、常数和函数计算，可在命令行或浏览器中使用。",
+            "language": "Rust",
+            "issueNumber": 126,
+            "issueDate": "2026-09-28",
+            "stars": 2712,
+            "forks": 119
+          },
+          {
+            "id": "sigoden/window-switcher",
+            "name": "window-switcher",
+            "fullName": "sigoden/window-switcher",
+            "githubUrl": "https://github.com/sigoden/window-switcher",
+            "description": "在 Windows 上切换同一应用的多个窗口。这是一款免安装的 Windows 窗口切换工具，按下 Alt+反引号 即可在同一应用的多个窗口间快速切换，也可启用 Alt+Tab 切换应用。支持自定义快捷键、冲突程序黑名单和限定当前虚拟桌面等功能。来自 [@想飞的鸡](https://hellogithub.com/user/nvI9PN0WkibSf8p) 的分享",
+            "fullDescription": "在 Windows 上切换同一应用的多个窗口。这是一款免安装的 Windows 窗口切换工具，按下 Alt+反引号 即可在同一应用的多个窗口间快速切换，也可启用 Alt+Tab 切换应用。支持自定义快捷键、冲突程序黑名单和限定当前虚拟桌面等功能。来自 [@想飞的鸡](https://hellogithub.com/user/nvI9PN0WkibSf8p) 的分享",
+            "language": "Rust",
+            "issueNumber": 126,
+            "issueDate": "2026-09-28",
+            "stars": 1106,
+            "forks": 78
+          }
+        ],
+        "Skills": [
+          {
+            "id": "yang0/handraw-style",
+            "name": "handraw-style",
+            "fullName": "yang0/handraw-style",
+            "githubUrl": "https://github.com/yang0/handraw-style",
+            "description": "手绘风格 AI 生图技能包。这是一个可安装到 Codex 的 AI 生图技能包，收录了 278 种手绘风格、120 种排版样式和 30 种经典主题色。选定编号并说明主题，即可生成中英双语生图提示词，也能根据主题自动推荐风格和配色。它提供社媒卡、信息图、漫画分镜等排版，支持纯图和图文两种模式，生成的提示词适用于 GPT Image、Midjourney、Stable Diffusion 等工具。来自 [@🐯旺德福](https://hellogithub.com/user/8adohGgCW07fknL) 的分享",
+            "fullDescription": "手绘风格 AI 生图技能包。这是一个可安装到 Codex 的 AI 生图技能包，收录了 278 种手绘风格、120 种排版样式和 30 种经典主题色。选定编号并说明主题，即可生成中英双语生图提示词，也能根据主题自动推荐风格和配色。它提供社媒卡、信息图、漫画分镜等排版，支持纯图和图文两种模式，生成的提示词适用于 GPT Image、Midjourney、Stable Diffusion 等工具。来自 [@🐯旺德福](https://hellogithub.com/user/8adohGgCW07fknL) 的分享",
+            "language": "Skills",
+            "issueNumber": 126,
+            "issueDate": "2026-09-28",
+            "stars": 3488,
+            "forks": 445
+          },
+          {
+            "id": "xingkongliang/skills-manager",
+            "name": "skills-manager",
+            "fullName": "xingkongliang/skills-manager",
+            "githubUrl": "https://github.com/xingkongliang/skills-manager",
+            "description": "统一管理 AI 技能包的工具。这是一款跨平台的 AI 智能体技能管理工具，可将散落在不同工具中的技能集中存入本地仓库，并一键同步到 Claude Code、Codex、Cursor 等工具。它支持从 Git 仓库、本地文件夹、压缩包和 skills.sh 市场安装技能，还提供技能组合预设、项目级管理、上游更新检测和标签筛选等功能，适用于 Windows、macOS 和 Linux。",
+            "fullDescription": "统一管理 AI 技能包的工具。这是一款跨平台的 AI 智能体技能管理工具，可将散落在不同工具中的技能集中存入本地仓库，并一键同步到 Claude Code、Codex、Cursor 等工具。它支持从 Git 仓库、本地文件夹、压缩包和 skills.sh 市场安装技能，还提供技能组合预设、项目级管理、上游更新检测和标签筛选等功能，适用于 Windows、macOS 和 Linux。",
+            "language": "Skills",
+            "issueNumber": 126,
+            "issueDate": "2026-09-28",
+            "stars": 5105,
+            "forks": 438
+          },
+          {
+            "id": "geeklee/srt-whiteboard-animation",
+            "name": "srt-whiteboard-animation",
+            "fullName": "geeklee/srt-whiteboard-animation",
+            "githubUrl": "https://github.com/geeklee/srt-whiteboard-animation",
+            "description": "把字幕变成手绘动画。这是一个可将 SRT 字幕转换为白板手绘视频的 AI 技能包。它会解析字幕内容，按叙事顺序拆分场景并生成分镜和线稿，再让画面元素随字幕依次出现，通过笔尖连续勾勒、逐步上色，最终导出为 MP4 视频。",
+            "fullDescription": "把字幕变成手绘动画。这是一个可将 SRT 字幕转换为白板手绘视频的 AI 技能包。它会解析字幕内容，按叙事顺序拆分场景并生成分镜和线稿，再让画面元素随字幕依次出现，通过笔尖连续勾勒、逐步上色，最终导出为 MP4 视频。",
+            "language": "Skills",
+            "issueNumber": 126,
+            "issueDate": "2026-09-28",
+            "stars": 3637,
+            "forks": 586
+          },
+          {
+            "id": "lhlGitHub/threejs-architecture-effects",
+            "name": "threejs-architecture-effects",
+            "fullName": "lhlGitHub/threejs-architecture-effects",
+            "githubUrl": "https://github.com/lhlGitHub/threejs-architecture-effects",
+            "description": "让 AI 生成逐层搭建的 3D 古建筑。这是一个适用于 Codex、Claude Code 和 Cursor 的 AI 技能，可生成基于 Three.js 的 3D 中式古建网站。建筑会按照砖墙、木构架、斗拱和飞檐的顺序逐步搭建，砖、木、瓦、石等材质均由代码生成，支持拖动时间轴回放搭建过程、旋转缩放视角和查看飞檐特写等功能。",
+            "fullDescription": "让 AI 生成逐层搭建的 3D 古建筑。这是一个适用于 Codex、Claude Code 和 Cursor 的 AI 技能，可生成基于 Three.js 的 3D 中式古建网站。建筑会按照砖墙、木构架、斗拱和飞檐的顺序逐步搭建，砖、木、瓦、石等材质均由代码生成，支持拖动时间轴回放搭建过程、旋转缩放视角和查看飞檐特写等功能。",
+            "language": "Skills",
+            "issueNumber": 126,
+            "issueDate": "2026-09-28",
+            "stars": 366,
+            "forks": 53
+          }
+        ],
+        "Swift": [
+          {
+            "id": "iAmCorey/birth",
+            "name": "birth",
+            "fullName": "iAmCorey/birth",
+            "githubUrl": "https://github.com/iAmCorey/birth",
+            "description": "macOS 启动项管理工具。这是一款免费开源的 macOS 启动项管理工具，可集中查看和管理开机启动项、守护进程及后台程序，支持按名称、路径或 PID 搜索，并一键停用或移除相关程序。",
+            "fullDescription": "macOS 启动项管理工具。这是一款免费开源的 macOS 启动项管理工具，可集中查看和管理开机启动项、守护进程及后台程序，支持按名称、路径或 PID 搜索，并一键停用或移除相关程序。",
+            "language": "Swift",
+            "issueNumber": 126,
+            "issueDate": "2026-09-28",
+            "stars": 520,
+            "forks": 23
+          },
+          {
+            "id": "thaw-app/Thaw",
+            "name": "Thaw",
+            "fullName": "thaw-app/Thaw",
+            "githubUrl": "https://github.com/thaw-app/Thaw",
+            "description": "按需显隐图标的 Mac 菜单栏管理工具。这是一款免费开源的 macOS 菜单栏管理工具，可隐藏不需要的图标，并通过悬停或快捷键找回。支持按显示器或专注模式切换布局，还能根据电量、Wi-Fi 等条件自动显示图标。来自 [@René](https://hellogithub.com/user/cMvzi70VXPQuJZB) 的分享",
+            "fullDescription": "按需显隐图标的 Mac 菜单栏管理工具。这是一款免费开源的 macOS 菜单栏管理工具，可隐藏不需要的图标，并通过悬停或快捷键找回。支持按显示器或专注模式切换布局，还能根据电量、Wi-Fi 等条件自动显示图标。来自 [@René](https://hellogithub.com/user/cMvzi70VXPQuJZB) 的分享",
+            "language": "Swift",
+            "issueNumber": 126,
+            "issueDate": "2026-09-28",
+            "stars": 11579,
+            "forks": 283
+          },
+          {
+            "id": "abue-ammar/tinycast",
+            "name": "tinycast",
+            "fullName": "abue-ammar/tinycast",
+            "githubUrl": "https://github.com/abue-ammar/tinycast",
+            "description": "极简的 macOS 启动器。这是一款用 Swift 编写的轻量级 macOS 启动器，内存占用不到 100MB，支持文件搜索、剪贴板历史、汇率换算、代码片段、窗口管理和 AI 对话等功能，兼容 Raycast 扩展。",
+            "fullDescription": "极简的 macOS 启动器。这是一款用 Swift 编写的轻量级 macOS 启动器，内存占用不到 100MB，支持文件搜索、剪贴板历史、汇率换算、代码片段、窗口管理和 AI 对话等功能，兼容 Raycast 扩展。",
+            "language": "Swift",
+            "issueNumber": 126,
+            "issueDate": "2026-09-28",
+            "stars": 7641,
+            "forks": 390
+          },
+          {
+            "id": "Lakr233/vphone-cli",
+            "name": "vphone-cli",
+            "fullName": "Lakr233/vphone-cli",
+            "githubUrl": "https://github.com/Lakr233/vphone-cli",
+            "description": "在 Mac 上创建并运行虚拟 iPhone。这是一款适用于 Apple Silicon Mac 的虚拟 iPhone 工具，基于苹果虚拟化框架创建和管理虚拟机，可通过图形启动器或命令行操作，支持文件浏览、截图录屏和剪贴板同步等功能。",
+            "fullDescription": "在 Mac 上创建并运行虚拟 iPhone。这是一款适用于 Apple Silicon Mac 的虚拟 iPhone 工具，基于苹果虚拟化框架创建和管理虚拟机，可通过图形启动器或命令行操作，支持文件浏览、截图录屏和剪贴板同步等功能。",
+            "language": "Swift",
+            "issueNumber": 126,
+            "issueDate": "2026-09-28",
+            "stars": 14601,
+            "forks": 1716
+          }
+        ],
+        "人工智能": [
+          {
+            "id": "citrolabs/ego-lite",
+            "name": "ego-lite",
+            "fullName": "citrolabs/ego-lite",
+            "githubUrl": "https://github.com/citrolabs/ego-lite",
+            "description": "与 AI 智能体共用且互不干扰的浏览器。这是一款专为人和 AI 智能体共同使用而设计的浏览器。每个 Agent 都在独立空间中执行任务，不会影响正常浏览网页。智能体可直接编写 JavaScript 完成获取页面快照、点击和填写表单等多步操作，从而减少工具调用次数和 Token 消耗。它支持导入 Chrome 的登录状态和书签，可让多个 Agent 并行处理任务，目前仅支持 macOS。",
+            "fullDescription": "与 AI 智能体共用且互不干扰的浏览器。这是一款专为人和 AI 智能体共同使用而设计的浏览器。每个 Agent 都在独立空间中执行任务，不会影响正常浏览网页。智能体可直接编写 JavaScript 完成获取页面快照、点击和填写表单等多步操作，从而减少工具调用次数和 Token 消耗。它支持导入 Chrome 的登录状态和书签，可让多个 Agent 并行处理任务，目前仅支持 macOS。",
+            "language": "人工智能",
+            "issueNumber": 126,
+            "issueDate": "2026-09-28",
+            "stars": 16596,
+            "forks": 883
+          },
+          {
+            "id": "baidu-baige/LoongForge",
+            "name": "LoongForge",
+            "fullName": "baidu-baige/LoongForge",
+            "githubUrl": "https://github.com/baidu-baige/LoongForge",
+            "description": "更快地训练大模型和具身模型。该项目是百度开源的模型训练框架，支持主流的 LLM、VLM、扩散和具身模型。它采用多后端架构，提供开箱即用的配置和脚本，支持预训练、SFT 与 LoRA，适配 NVIDIA GPU 和昆仑芯 XPU 异构硬件。来自 [@zhhhhcc](https://hellogithub.com/user/PjNLOfBMoxlaTEq) 的分享",
+            "fullDescription": "更快地训练大模型和具身模型。该项目是百度开源的模型训练框架，支持主流的 LLM、VLM、扩散和具身模型。它采用多后端架构，提供开箱即用的配置和脚本，支持预训练、SFT 与 LoRA，适配 NVIDIA GPU 和昆仑芯 XPU 异构硬件。来自 [@zhhhhcc](https://hellogithub.com/user/PjNLOfBMoxlaTEq) 的分享",
+            "language": "人工智能",
+            "issueNumber": 126,
+            "issueDate": "2026-09-28",
+            "stars": 599,
+            "forks": 54
+          },
+          {
+            "id": "stablyai/orca",
+            "name": "orca",
+            "fullName": "stablyai/orca",
+            "githubUrl": "https://github.com/stablyai/orca",
+            "description": "让多个 AI 编程智能体并行开发的 IDE。这是一款跨平台的 AI 编程智能体编排工具，能够让 Claude Code、Codex 等分别在独立的 Git 工作树中并行运行，并通过同一界面统一管理。它能将同一个提示词同时发送给多个 Agent，对比结果后合并最优方案。还可通过手机 App 查看进度、接收通知和发送指令，适用于 Windows、macOS 和 Linux。",
+            "fullDescription": "让多个 AI 编程智能体并行开发的 IDE。这是一款跨平台的 AI 编程智能体编排工具，能够让 Claude Code、Codex 等分别在独立的 Git 工作树中并行运行，并通过同一界面统一管理。它能将同一个提示词同时发送给多个 Agent，对比结果后合并最优方案。还可通过手机 App 查看进度、接收通知和发送指令，适用于 Windows、macOS 和 Linux。",
+            "language": "人工智能",
+            "issueNumber": 126,
+            "issueDate": "2026-09-28",
+            "stars": 80017,
+            "forks": 5224
+          },
+          {
+            "id": "TencentCloud/TencentDB-Agent-Memory",
+            "name": "TencentDB-Agent-Memory",
+            "fullName": "TencentCloud/TencentDB-Agent-Memory",
+            "githubUrl": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+            "description": "让多个 AI 智能体共享团队经验。这是一款开源的 AI 智能体团队记忆系统，可将对话、文档和代码整理成可复用的团队记忆，供不同智能体和团队成员共享。它能从对话中提取记忆与技能，将文档和代码转换为 Wiki 和代码图谱，并根据权限将这些内容分配给不同智能体。来自 [@Jianing Xu](https://hellogithub.com/user/1LwC8mueviYao9D) 的分享",
+            "fullDescription": "让多个 AI 智能体共享团队经验。这是一款开源的 AI 智能体团队记忆系统，可将对话、文档和代码整理成可复用的团队记忆，供不同智能体和团队成员共享。它能从对话中提取记忆与技能，将文档和代码转换为 Wiki 和代码图谱，并根据权限将这些内容分配给不同智能体。来自 [@Jianing Xu](https://hellogithub.com/user/1LwC8mueviYao9D) 的分享",
+            "language": "人工智能",
+            "issueNumber": 126,
+            "issueDate": "2026-09-28",
+            "stars": 27384,
+            "forks": 2637
+          },
+          {
+            "id": "multimodal-art-projection/YuE",
+            "name": "YuE",
+            "fullName": "multimodal-art-projection/YuE",
+            "githubUrl": "https://github.com/multimodal-art-projection/YuE",
+            "description": "先写曲谱再生成歌曲的音乐模型。该项目是开源的歌曲生成模型，输入歌词和风格描述，即可生成包含人声与伴奏的完整歌曲。它会先生成旋律与和弦乐谱，再根据乐谱生成音频，支持编辑曲谱后重新生成歌曲，也能根据参考录音进行翻唱。配套 Skill 还支持生成纯器乐。",
+            "fullDescription": "先写曲谱再生成歌曲的音乐模型。该项目是开源的歌曲生成模型，输入歌词和风格描述，即可生成包含人声与伴奏的完整歌曲。它会先生成旋律与和弦乐谱，再根据乐谱生成音频，支持编辑曲谱后重新生成歌曲，也能根据参考录音进行翻唱。配套 Skill 还支持生成纯器乐。",
+            "language": "人工智能",
+            "issueNumber": 126,
+            "issueDate": "2026-09-28",
+            "stars": 10468,
+            "forks": 1196
+          }
+        ],
+        "其它": [
+          {
+            "id": "okalachev/flix",
+            "name": "flix",
+            "fullName": "okalachev/flix",
+            "githubUrl": "https://github.com/okalachev/flix",
+            "description": "基于 ESP32 的四旋翼无人机。该项目是基于 ESP32 的四旋翼无人机，内含 3D 打印机架、接线图和飞控固件。它通过 Wi-Fi 或 ESP-NOW 使用 MAVLink 协议通信，可用 USB 手柄、遥控器或手机操控，并提供无线命令行调试、Gazebo 仿真和用于自动飞行的 Python 库。",
+            "fullDescription": "基于 ESP32 的四旋翼无人机。该项目是基于 ESP32 的四旋翼无人机，内含 3D 打印机架、接线图和飞控固件。它通过 Wi-Fi 或 ESP-NOW 使用 MAVLink 协议通信，可用 USB 手柄、遥控器或手机操控，并提供无线命令行调试、Gazebo 仿真和用于自动飞行的 Python 库。",
+            "language": "其它",
+            "issueNumber": 126,
+            "issueDate": "2026-09-28",
+            "stars": 1941,
+            "forks": 317
+          },
+          {
+            "id": "arnegiacomo/fugleramme",
+            "name": "fugleramme",
+            "fullName": "arnegiacomo/fugleramme",
+            "githubUrl": "https://github.com/arnegiacomo/fugleramme",
+            "description": "听声识鸟的电子墨水相框。该项目是基于树莓派的智能鸟类相框，通过麦克风采集附近的鸟鸣，借助 BirdNET-Go 识别鸟类，再以古典插画的形式展示识别结果。",
+            "fullDescription": "听声识鸟的电子墨水相框。该项目是基于树莓派的智能鸟类相框，通过麦克风采集附近的鸟鸣，借助 BirdNET-Go 识别鸟类，再以古典插画的形式展示识别结果。",
+            "language": "其它",
+            "issueNumber": 126,
+            "issueDate": "2026-09-28",
+            "stars": 3420,
+            "forks": 98
+          },
+          {
+            "id": "pollen-robotics/microduck",
+            "name": "microduck",
+            "fullName": "pollen-robotics/microduck",
+            "githubUrl": "https://github.com/pollen-robotics/microduck",
+            "description": "迷你鸭子机器人。该项目是双足鸭子机器人 Microduck 的控制系统。机器人高约 25 厘米、重 800 克，可通过手柄遥控行走，支持加装轮子、叼起物品和摔倒后自行站起。",
+            "fullDescription": "迷你鸭子机器人。该项目是双足鸭子机器人 Microduck 的控制系统。机器人高约 25 厘米、重 800 克，可通过手柄遥控行走，支持加装轮子、叼起物品和摔倒后自行站起。",
+            "language": "其它",
+            "issueNumber": 126,
+            "issueDate": "2026-09-28",
+            "stars": 8890,
+            "forks": 1137
+          },
+          {
+            "id": "pgsty/pigsty",
+            "name": "pigsty",
+            "fullName": "pgsty/pigsty",
+            "githubUrl": "https://github.com/pgsty/pigsty",
+            "description": "开箱即用的 PostgreSQL 发行版。这是一个企业级开源 PostgreSQL 发行版，可在 Linux 上一键部署单机实例或高可用集群。它内置监控面板、故障自动切换和时间点恢复等功能，并提供 12 种 PG 内核和 500 多个扩展。来自 [@r12t](https://hellogithub.com/user/DNxZA3uzsJpECgP) 的分享",
+            "fullDescription": "开箱即用的 PostgreSQL 发行版。这是一个企业级开源 PostgreSQL 发行版，可在 Linux 上一键部署单机实例或高可用集群。它内置监控面板、故障自动切换和时间点恢复等功能，并提供 12 种 PG 内核和 500 多个扩展。来自 [@r12t](https://hellogithub.com/user/DNxZA3uzsJpECgP) 的分享 <a href=\"https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub125.md\">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | 『下一期』 </p> --- 👉 <a href='https://hellogithub.com/periodical'>来！推荐开源项目</a> 👈<br> 微信中搜：<strong>HelloGitHub</strong> 关注公众号<br> 不仅能第一时间收到推送，还有回馈粉丝的活动<br> 如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/126'>这里</a>。 </p>",
+            "language": "其它",
+            "issueNumber": 126,
+            "issueDate": "2026-09-28",
+            "stars": 5710,
+            "forks": 386
           }
         ]
       }
