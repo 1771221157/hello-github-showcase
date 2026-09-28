@@ -258,12 +258,23 @@ export function saveProjects(issues) {
     mkdirSync(DATA_DIR, { recursive: true });
   }
 
-  // 构建完整的 projects.json
+  // 增量构建只解析新期刊，必须与已有 projects.json 合并，避免丢失历史数据。
+  const existingProjects = existsSync(PROJECTS_FILE)
+    ? JSON.parse(readFileSync(PROJECTS_FILE, 'utf-8'))
+    : { issues: [] };
+  const issueMap = new Map(
+    (existingProjects.issues || []).map(issue => [issue.number, issue])
+  );
+  for (const issue of issues) {
+    issueMap.set(issue.number, issue);
+  }
+  const allIssues = [...issueMap.values()].sort((a, b) => a.number - b.number);
+
   const data = {
     lastUpdated: new Date().toISOString(),
-    totalIssues: issues.length,
-    totalProjects: issues.reduce((sum, i) => sum + i.totalProjects, 0),
-    issues
+    totalIssues: allIssues.length,
+    totalProjects: allIssues.reduce((sum, i) => sum + i.totalProjects, 0),
+    issues: allIssues
   };
 
   writeFileSync(PROJECTS_FILE, JSON.stringify(data, null, 2), 'utf-8');
@@ -283,14 +294,12 @@ export function saveProjects(issues) {
     ? JSON.parse(readFileSync(issuesFile, 'utf-8'))
     : { issues: [] };
 
-  // 合并去重
-  const existingNums = new Set(existing.issues.map(i => i.number));
+  // 合并去重，并让同一期的元数据以最新解析结果为准
+  const metaMap = new Map(existing.issues.map(i => [i.number, i]));
   for (const meta of issuesMeta) {
-    if (!existingNums.has(meta.number)) {
-      existing.issues.push(meta);
-    }
+    metaMap.set(meta.number, meta);
   }
-  existing.issues.sort((a, b) => a.number - b.number);
+  existing.issues = [...metaMap.values()].sort((a, b) => a.number - b.number);
   existing.lastUpdated = new Date().toISOString();
 
   writeFileSync(issuesFile, JSON.stringify(existing, null, 2), 'utf-8');

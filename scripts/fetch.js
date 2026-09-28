@@ -128,11 +128,21 @@ export async function fetchAllIssues() {
 
   if (newNums.length === 0) {
     console.log('✅ All issues already fetched, nothing new.\n');
-    return knownIssues.map(i => ({
-      issueNum: i.number,
-      content: readFileSync(join(DATA_DIR, 'issues', getFileName(i.number)), 'utf-8'),
-      fileName: getFileName(i.number)
-    })).filter(Boolean);
+    const results = [];
+    for (const issue of knownIssues) {
+      const fileName = getFileName(issue.number);
+      const filePath = join(DATA_DIR, 'issues', fileName);
+      if (existsSync(filePath)) {
+        results.push({
+          issueNum: issue.number,
+          content: readFileSync(filePath, 'utf-8'),
+          fileName
+        });
+      } else {
+        console.warn(`  ⚠ Cached markdown missing for issue #${issue.number}, skipping`);
+      }
+    }
+    return results;
   }
 
   console.log(`📥 Fetching ${newNums.length} new issues: #${newNums.join(', #')}\n`);
