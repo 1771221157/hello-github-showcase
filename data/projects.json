@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-28T07:53:48.239Z",
+  "lastUpdated": "2026-09-28T07:56:11.845Z",
   "totalIssues": 126,
   "totalProjects": 3991,
   "issues": [
@@ -58423,7 +58423,9 @@
             "issueNumber": 124,
             "issueDate": "2026-07-28",
             "stars": 4845,
-            "forks": 606
+            "forks": 606,
+            "owner": "86Box",
+            "repo": "86Box"
           },
           {
             "id": "henrypp/simplewall",
@@ -58436,7 +58438,9 @@
             "issueNumber": 124,
             "issueDate": "2026-07-28",
             "stars": 9068,
-            "forks": 661
+            "forks": 661,
+            "owner": "henrypp",
+            "repo": "simplewall"
           }
         ],
         "C#": [
@@ -58451,7 +58455,9 @@
             "issueNumber": 124,
             "issueDate": "2026-07-28",
             "stars": 6212,
-            "forks": 223
+            "forks": 223,
+            "owner": "builtbybel",
+            "repo": "FluentCleaner"
           },
           {
             "id": "Orbmu2k/nvidiaProfileInspector",
@@ -58464,7 +58470,9 @@
             "issueNumber": 124,
             "issueDate": "2026-07-28",
             "stars": 7321,
-            "forks": 392
+            "forks": 392,
+            "owner": "Orbmu2k",
+            "repo": "nvidiaProfileInspector"
           }
         ],
         "C++": [
@@ -58479,7 +58487,9 @@
             "issueNumber": 124,
             "issueDate": "2026-07-28",
             "stars": 11616,
-            "forks": 980
+            "forks": 980,
+            "owner": "jrouwe",
+            "repo": "JoltPhysics"
           }
         ],
         "Go": [
@@ -58494,7 +58504,9 @@
             "issueNumber": 124,
             "issueDate": "2026-07-28",
             "stars": 7459,
-            "forks": 628
+            "forks": 628,
+            "owner": "rorkai",
+            "repo": "App-Store-Connect-CLI"
           },
           {
             "id": "tamnd/kage",
@@ -58507,7 +58519,9 @@
             "issueNumber": 124,
             "issueDate": "2026-07-28",
             "stars": 3444,
-            "forks": 132
+            "forks": 132,
+            "owner": "tamnd",
+            "repo": "kage"
           },
           {
             "id": "overflowy/make-look-scanned",
@@ -58520,7 +58534,9 @@
             "issueNumber": 124,
             "issueDate": "2026-07-28",
             "stars": 818,
-            "forks": 43
+            "forks": 43,
+            "owner": "overflowy",
+            "repo": "make-look-scanned"
           },
           {
             "id": "zabbix/zabbix",
@@ -58533,7 +58549,9 @@
             "issueNumber": 124,
             "issueDate": "2026-07-28",
             "stars": 6420,
-            "forks": 1262
+            "forks": 1262,
+            "owner": "zabbix",
+            "repo": "zabbix"
           }
         ],
         "Java": [
@@ -58548,7 +58566,9 @@
             "issueNumber": 124,
             "issueDate": "2026-07-28",
             "stars": 4767,
-            "forks": 3606
+            "forks": 3606,
+            "owner": "JabRef",
+            "repo": "jabref"
           }
         ],
         "JavaScript": [
@@ -58563,7 +58583,9 @@
             "issueNumber": 124,
             "issueDate": "2026-07-28",
             "stars": 13471,
-            "forks": 1161
+            "forks": 1161,
+            "owner": "facebook",
+            "repo": "astryx"
           },
           {
             "id": "ssnangua/ColorTxt",
@@ -58576,7 +58598,9 @@
             "issueNumber": 124,
             "issueDate": "2026-07-28",
             "stars": 1798,
-            "forks": 111
+            "forks": 111,
+            "owner": "ssnangua",
+            "repo": "ColorTxt"
           },
           {
             "id": "karakeep-app/karakeep",
@@ -58589,7 +58613,9 @@
             "issueNumber": 124,
             "issueDate": "2026-07-28",
             "stars": 29323,
-            "forks": 1539
+            "forks": 1539,
+            "owner": "karakeep-app",
+            "repo": "karakeep"
           },
           {
             "id": "JOYCEQL/magic-resume",
@@ -58602,7 +58628,9 @@
             "issueNumber": 124,
             "issueDate": "2026-07-28",
             "stars": 10852,
-            "forks": 1155
+            "forks": 1155,
+            "owner": "JOYCEQL",
+            "repo": "magic-resume"
           },
           {
             "id": "liketrek/TREK",
@@ -58615,7 +58643,9 @@
             "issueNumber": 124,
             "issueDate": "2026-07-28",
             "stars": 14415,
-            "forks": 1250
+            "forks": 1250,
+            "owner": "liketrek",
+            "repo": "TREK"
           }
         ],
         "Python": [
@@ -58630,7 +58660,9 @@
             "issueNumber": 124,
             "issueDate": "2026-07-28",
             "stars": 6065,
-            "forks": 472
+            "forks": 472,
+            "owner": "denizsafak",
+            "repo": "abogen"
           },
           {
             "id": "newren/git-filter-repo",
@@ -58643,7 +58675,9 @@
             "issueNumber": 124,
             "issueDate": "2026-07-28",
             "stars": 13338,
-            "forks": 1008
+            "forks": 1008,
+            "owner": "newren",
+            "repo": "git-filter-repo"
           },
           {
             "id": "Hypostasis-Cat/HypoMux",
@@ -58656,7 +58690,9 @@
             "issueNumber": 124,
             "issueDate": "2026-07-28",
             "stars": 3687,
-            "forks": 130
+            "forks": 130,
+            "owner": "Hypostasis-Cat",
+            "repo": "HypoMux"
           },
           {
             "id": "msgspec/msgspec",
@@ -58669,7 +58705,9 @@
             "issueNumber": 124,
             "issueDate": "2026-07-28",
             "stars": 4130,
-            "forks": 196
+            "forks": 196,
+            "owner": "msgspec",
+            "repo": "msgspec"
           },
           {
             "id": "BigDawnGhost/wenyi",
@@ -58682,7 +58720,9 @@
             "issueNumber": 124,
             "issueDate": "2026-07-28",
             "stars": 2680,
-            "forks": 206
+            "forks": 206,
+            "owner": "BigDawnGhost",
+            "repo": "wenyi"
           }
         ],
         "Rust": [
@@ -58697,7 +58737,9 @@
             "issueNumber": 124,
             "issueDate": "2026-07-28",
             "stars": 15991,
-            "forks": 687
+            "forks": 687,
+            "owner": "Automattic",
+            "repo": "harper"
           },
           {
             "id": "ogulcancelik/herdr",
@@ -58710,7 +58752,9 @@
             "issueNumber": 124,
             "issueDate": "2026-07-28",
             "stars": 41087,
-            "forks": 3156
+            "forks": 3156,
+            "owner": "ogulcancelik",
+            "repo": "herdr"
           }
         ],
         "Skills": [
@@ -58725,7 +58769,9 @@
             "issueNumber": 124,
             "issueDate": "2026-07-28",
             "stars": 73071,
-            "forks": 4935
+            "forks": 4935,
+            "owner": "tt-a1i",
+            "repo": "archify"
           },
           {
             "id": "bradautomates/claude-video",
@@ -58738,7 +58784,9 @@
             "issueNumber": 124,
             "issueDate": "2026-07-28",
             "stars": 17758,
-            "forks": 1829
+            "forks": 1829,
+            "owner": "bradautomates",
+            "repo": "claude-video"
           },
           {
             "id": "Nutlope/hallmark",
@@ -58751,7 +58799,9 @@
             "issueNumber": 124,
             "issueDate": "2026-07-28",
             "stars": 29231,
-            "forks": 1501
+            "forks": 1501,
+            "owner": "Nutlope",
+            "repo": "hallmark"
           }
         ],
         "Swift": [
@@ -58766,7 +58816,9 @@
             "issueNumber": 124,
             "issueDate": "2026-07-28",
             "stars": 594,
-            "forks": 25
+            "forks": 25,
+            "owner": "oomol-lab",
+            "repo": "LockIME"
           },
           {
             "id": "peetzweg/opendisplay",
@@ -58779,7 +58831,9 @@
             "issueNumber": 124,
             "issueDate": "2026-07-28",
             "stars": 4847,
-            "forks": 322
+            "forks": 322,
+            "owner": "peetzweg",
+            "repo": "opendisplay"
           },
           {
             "id": "gechr/WhichSpace",
@@ -58792,7 +58846,9 @@
             "issueNumber": 124,
             "issueDate": "2026-07-28",
             "stars": 840,
-            "forks": 45
+            "forks": 45,
+            "owner": "gechr",
+            "repo": "WhichSpace"
           }
         ],
         "人工智能": [
@@ -58807,7 +58863,9 @@
             "issueNumber": 124,
             "issueDate": "2026-07-28",
             "stars": 31819,
-            "forks": 2911
+            "forks": 2911,
+            "owner": "tirth8205",
+            "repo": "code-review-graph"
           },
           {
             "id": "gastownhall/gastown",
@@ -58820,7 +58878,9 @@
             "issueNumber": 124,
             "issueDate": "2026-07-28",
             "stars": 18206,
-            "forks": 1674
+            "forks": 1674,
+            "owner": "gastownhall",
+            "repo": "gastown"
           },
           {
             "id": "harbor-framework/harbor",
@@ -58833,7 +58893,9 @@
             "issueNumber": 124,
             "issueDate": "2026-07-28",
             "stars": 5654,
-            "forks": 1872
+            "forks": 1872,
+            "owner": "harbor-framework",
+            "repo": "harbor"
           },
           {
             "id": "calesthio/OpenMontage",
@@ -58846,7 +58908,9 @@
             "issueNumber": 124,
             "issueDate": "2026-07-28",
             "stars": 61617,
-            "forks": 7840
+            "forks": 7840,
+            "owner": "calesthio",
+            "repo": "OpenMontage"
           },
           {
             "id": "dottxt-ai/outlines",
@@ -58859,7 +58923,9 @@
             "issueNumber": 124,
             "issueDate": "2026-07-28",
             "stars": 15888,
-            "forks": 888
+            "forks": 888,
+            "owner": "dottxt-ai",
+            "repo": "outlines"
           }
         ],
         "其它": [
@@ -58874,7 +58940,9 @@
             "issueNumber": 124,
             "issueDate": "2026-07-28",
             "stars": 8094,
-            "forks": 1893
+            "forks": 1893,
+            "owner": "crosspoint-reader",
+            "repo": "crosspoint-reader"
           },
           {
             "id": "hasaneyldrm/exercises-dataset",
@@ -58887,7 +58955,9 @@
             "issueNumber": 124,
             "issueDate": "2026-07-28",
             "stars": 22369,
-            "forks": 2860
+            "forks": 2860,
+            "owner": "hasaneyldrm",
+            "repo": "exercises-dataset"
           },
           {
             "id": "lollipopkit/flutter_server_box",
@@ -58900,7 +58970,9 @@
             "issueNumber": 124,
             "issueDate": "2026-07-28",
             "stars": 8750,
-            "forks": 561
+            "forks": 561,
+            "owner": "lollipopkit",
+            "repo": "flutter_server_box"
           },
           {
             "id": "Younesfdj/gitfut",
@@ -58913,7 +58985,9 @@
             "issueNumber": 124,
             "issueDate": "2026-07-28",
             "stars": 2617,
-            "forks": 142
+            "forks": 142,
+            "owner": "Younesfdj",
+            "repo": "gitfut"
           },
           {
             "id": "jamesob/local-llm",
@@ -58926,7 +59000,9 @@
             "issueNumber": 124,
             "issueDate": "2026-07-28",
             "stars": 1848,
-            "forks": 104
+            "forks": 104,
+            "owner": "jamesob",
+            "repo": "local-llm"
           }
         ],
         "开源书籍": [
@@ -58941,7 +59017,9 @@
             "issueNumber": 124,
             "issueDate": "2026-07-28",
             "stars": 51421,
-            "forks": 5781
+            "forks": 5781,
+            "owner": "bojieli",
+            "repo": "ai-agent-book"
           },
           {
             "id": "alxndrTL/little-book-rl",
@@ -58954,7 +59032,9 @@
             "issueNumber": 124,
             "issueDate": "2026-07-28",
             "stars": 1654,
-            "forks": 93
+            "forks": 93,
+            "owner": "alxndrTL",
+            "repo": "little-book-rl"
           }
         ]
       }
@@ -58992,7 +59072,9 @@
             "issueNumber": 125,
             "issueDate": "2026-08-28",
             "stars": 14149,
-            "forks": 2246
+            "forks": 2246,
+            "owner": "libretro",
+            "repo": "RetroArch"
           }
         ],
         "C#": [
@@ -59007,7 +59089,9 @@
             "issueNumber": 125,
             "issueDate": "2026-08-28",
             "stars": 5680,
-            "forks": 301
+            "forks": 301,
+            "owner": "Tianyu199509",
+            "repo": "DeskBox"
           },
           {
             "id": "Tyrrrz/DiscordChatExporter",
@@ -59020,7 +59104,9 @@
             "issueNumber": 125,
             "issueDate": "2026-08-28",
             "stars": 12096,
-            "forks": 1027
+            "forks": 1027,
+            "owner": "Tyrrrz",
+            "repo": "DiscordChatExporter"
           },
           {
             "id": "luolangaga/tubatools",
@@ -59033,7 +59119,9 @@
             "issueNumber": 125,
             "issueDate": "2026-08-28",
             "stars": 4398,
-            "forks": 118
+            "forks": 118,
+            "owner": "luolangaga",
+            "repo": "tubatools"
           }
         ],
         "C++": [
@@ -59048,7 +59136,9 @@
             "issueNumber": 125,
             "issueDate": "2026-08-28",
             "stars": 1977,
-            "forks": 176
+            "forks": 176,
+            "owner": "sudoevolve",
+            "repo": "EUI-NEO"
           },
           {
             "id": "fooyin/fooyin",
@@ -59061,7 +59151,9 @@
             "issueNumber": 125,
             "issueDate": "2026-08-28",
             "stars": 2482,
-            "forks": 103
+            "forks": 103,
+            "owner": "fooyin",
+            "repo": "fooyin"
           }
         ],
         "Go": [
@@ -59076,7 +59168,9 @@
             "issueNumber": 125,
             "issueDate": "2026-08-28",
             "stars": 1359,
-            "forks": 102
+            "forks": 102,
+            "owner": "casosorg",
+            "repo": "casos"
           },
           {
             "id": "amacneil/dbmate",
@@ -59089,7 +59183,9 @@
             "issueNumber": 125,
             "issueDate": "2026-08-28",
             "stars": 7417,
-            "forks": 379
+            "forks": 379,
+            "owner": "amacneil",
+            "repo": "dbmate"
           },
           {
             "id": "loft-sh/devpod",
@@ -59102,7 +59198,9 @@
             "issueNumber": 125,
             "issueDate": "2026-08-28",
             "stars": 15242,
-            "forks": 586
+            "forks": 586,
+            "owner": "loft-sh",
+            "repo": "devpod"
           },
           {
             "id": "asciimoo/hister",
@@ -59115,7 +59213,9 @@
             "issueNumber": 125,
             "issueDate": "2026-08-28",
             "stars": 5772,
-            "forks": 251
+            "forks": 251,
+            "owner": "asciimoo",
+            "repo": "hister"
           }
         ],
         "Java": [
@@ -59130,7 +59230,9 @@
             "issueNumber": 125,
             "issueDate": "2026-08-28",
             "stars": 2335,
-            "forks": 310
+            "forks": 310,
+            "owner": "bk138",
+            "repo": "droidVNC-NG"
           },
           {
             "id": "grimmory-tools/grimmory",
@@ -59143,7 +59245,9 @@
             "issueNumber": 125,
             "issueDate": "2026-08-28",
             "stars": 4443,
-            "forks": 331
+            "forks": 331,
+            "owner": "grimmory-tools",
+            "repo": "grimmory"
           }
         ],
         "JavaScript": [
@@ -59158,7 +59262,9 @@
             "issueNumber": 125,
             "issueDate": "2026-08-28",
             "stars": 4303,
-            "forks": 241
+            "forks": 241,
+            "owner": "microsoft",
+            "repo": "flint-chart"
           },
           {
             "id": "gpujs/gpu.js",
@@ -59171,7 +59277,9 @@
             "issueNumber": 125,
             "issueDate": "2026-08-28",
             "stars": 15476,
-            "forks": 665
+            "forks": 665,
+            "owner": "gpujs",
+            "repo": "gpu.js"
           },
           {
             "id": "achrefelouafi/LinearAbiltyCastingThreeJS",
@@ -59184,7 +59292,9 @@
             "issueNumber": 125,
             "issueDate": "2026-08-28",
             "stars": 952,
-            "forks": 190
+            "forks": 190,
+            "owner": "achrefelouafi",
+            "repo": "LinearAbiltyCastingThreeJS"
           },
           {
             "id": "s010s/prehistoric-animal-museum",
@@ -59197,7 +59307,9 @@
             "issueNumber": 125,
             "issueDate": "2026-08-28",
             "stars": 1063,
-            "forks": 134
+            "forks": 134,
+            "owner": "s010s",
+            "repo": "prehistoric-animal-museum"
           }
         ],
         "Kotlin": [
@@ -59212,7 +59324,9 @@
             "issueNumber": 125,
             "issueDate": "2026-08-28",
             "stars": 1556,
-            "forks": 55
+            "forks": 55,
+            "owner": "Jasonzhu1207",
+            "repo": "ZenConverter"
           }
         ],
         "Python": [
@@ -59227,7 +59341,9 @@
             "issueNumber": 125,
             "issueDate": "2026-08-28",
             "stars": 35135,
-            "forks": 3701
+            "forks": 3701,
+            "owner": "lyogavin",
+            "repo": "airllm"
           },
           {
             "id": "87owo/PYAS",
@@ -59240,7 +59356,9 @@
             "issueNumber": 125,
             "issueDate": "2026-08-28",
             "stars": 556,
-            "forks": 49
+            "forks": 49,
+            "owner": "87owo",
+            "repo": "PYAS"
           },
           {
             "id": "jhd3197/ServerKit",
@@ -59253,7 +59371,9 @@
             "issueNumber": 125,
             "issueDate": "2026-08-28",
             "stars": 1673,
-            "forks": 166
+            "forks": 166,
+            "owner": "jhd3197",
+            "repo": "ServerKit"
           },
           {
             "id": "guillaumemeyer/watermarks-remover",
@@ -59266,7 +59386,9 @@
             "issueNumber": 125,
             "issueDate": "2026-08-28",
             "stars": 22974,
-            "forks": 2637
+            "forks": 2637,
+            "owner": "guillaumemeyer",
+            "repo": "watermarks-remover"
           }
         ],
         "Rust": [
@@ -59281,7 +59403,9 @@
             "issueNumber": 125,
             "issueDate": "2026-08-28",
             "stars": 5319,
-            "forks": 306
+            "forks": 306,
+            "owner": "Achilng",
+            "repo": "floral-notepaper"
           },
           {
             "id": "agavra/tuicr",
@@ -59294,7 +59418,9 @@
             "issueNumber": 125,
             "issueDate": "2026-08-28",
             "stars": 3230,
-            "forks": 275
+            "forks": 275,
+            "owner": "agavra",
+            "repo": "tuicr"
           },
           {
             "id": "huanfeng/WindInput",
@@ -59307,7 +59433,9 @@
             "issueNumber": 125,
             "issueDate": "2026-08-28",
             "stars": 909,
-            "forks": 50
+            "forks": 50,
+            "owner": "huanfeng",
+            "repo": "WindInput"
           }
         ],
         "Skills": [
@@ -59322,7 +59450,9 @@
             "issueNumber": 125,
             "issueDate": "2026-08-28",
             "stars": 8912,
-            "forks": 801
+            "forks": 801,
+            "owner": "chuspeeism",
+            "repo": "dashi-ppt-skill"
           },
           {
             "id": "plannotator/effective-html",
@@ -59335,7 +59465,9 @@
             "issueNumber": 125,
             "issueDate": "2026-08-28",
             "stars": 3308,
-            "forks": 223
+            "forks": 223,
+            "owner": "plannotator",
+            "repo": "effective-html"
           },
           {
             "id": "ayghri/i-have-adhd",
@@ -59348,7 +59480,9 @@
             "issueNumber": 125,
             "issueDate": "2026-08-28",
             "stars": 51692,
-            "forks": 2981
+            "forks": 2981,
+            "owner": "ayghri",
+            "repo": "i-have-adhd"
           },
           {
             "id": "helloianneo/ian-xiaohei-illustrations",
@@ -59361,7 +59495,9 @@
             "issueNumber": 125,
             "issueDate": "2026-08-28",
             "stars": 12160,
-            "forks": 1410
+            "forks": 1410,
+            "owner": "helloianneo",
+            "repo": "ian-xiaohei-illustrations"
           }
         ],
         "Swift": [
@@ -59376,7 +59512,9 @@
             "issueNumber": 125,
             "issueDate": "2026-08-28",
             "stars": 1913,
-            "forks": 81
+            "forks": 81,
+            "owner": "didriksg",
+            "repo": "Crisp"
           },
           {
             "id": "sarensw/MacPacker",
@@ -59389,7 +59527,9 @@
             "issueNumber": 125,
             "issueDate": "2026-08-28",
             "stars": 797,
-            "forks": 36
+            "forks": 36,
+            "owner": "sarensw",
+            "repo": "MacPacker"
           }
         ],
         "人工智能": [
@@ -59404,7 +59544,9 @@
             "issueNumber": 125,
             "issueDate": "2026-08-28",
             "stars": 32808,
-            "forks": 3428
+            "forks": 3428,
+            "owner": "virgiliojr94",
+            "repo": "book-to-skill"
           },
           {
             "id": "deepseek-ai/deepseek-harness",
@@ -59417,7 +59559,9 @@
             "issueNumber": 125,
             "issueDate": "2026-08-28",
             "stars": 238158,
-            "forks": 28619
+            "forks": 28619,
+            "owner": "deepseek-ai",
+            "repo": "deepseek-harness"
           },
           {
             "id": "can1357/oh-my-pi",
@@ -59430,7 +59574,9 @@
             "issueNumber": 125,
             "issueDate": "2026-08-28",
             "stars": 33545,
-            "forks": 3587
+            "forks": 3587,
+            "owner": "can1357",
+            "repo": "oh-my-pi"
           },
           {
             "id": "pipecat-ai/pipecat",
@@ -59443,7 +59589,9 @@
             "issueNumber": 125,
             "issueDate": "2026-08-28",
             "stars": 15930,
-            "forks": 2768
+            "forks": 2768,
+            "owner": "pipecat-ai",
+            "repo": "pipecat"
           },
           {
             "id": "backnotprop/plannotator",
@@ -59456,7 +59604,9 @@
             "issueNumber": 125,
             "issueDate": "2026-08-28",
             "stars": 9017,
-            "forks": 678
+            "forks": 678,
+            "owner": "backnotprop",
+            "repo": "plannotator"
           }
         ],
         "其它": [
@@ -59471,7 +59621,9 @@
             "issueNumber": 125,
             "issueDate": "2026-08-28",
             "stars": 502,
-            "forks": 24
+            "forks": 24,
+            "owner": "shmimel",
+            "repo": "bee-write-back"
           },
           {
             "id": "IHaskell/IHaskell",
@@ -59484,7 +59636,9 @@
             "issueNumber": 125,
             "issueDate": "2026-08-28",
             "stars": 2660,
-            "forks": 267
+            "forks": 267,
+            "owner": "IHaskell",
+            "repo": "IHaskell"
           },
           {
             "id": "1lck/Lithe-IDEA",
@@ -59497,7 +59651,9 @@
             "issueNumber": 125,
             "issueDate": "2026-08-28",
             "stars": 1815,
-            "forks": 152
+            "forks": 152,
+            "owner": "1lck",
+            "repo": "Lithe-IDEA"
           },
           {
             "id": "FriesI23/mhabit",
@@ -59510,7 +59666,9 @@
             "issueNumber": 125,
             "issueDate": "2026-08-28",
             "stars": 1609,
-            "forks": 98
+            "forks": 98,
+            "owner": "FriesI23",
+            "repo": "mhabit"
           },
           {
             "id": "GXFG/newtab-naivetab",
@@ -59523,7 +59681,9 @@
             "issueNumber": 125,
             "issueDate": "2026-08-28",
             "stars": 136,
-            "forks": 13
+            "forks": 13,
+            "owner": "GXFG",
+            "repo": "newtab-naivetab"
           }
         ]
       }
@@ -59559,7 +59719,9 @@
             "issueNumber": 126,
             "issueDate": "2026-09-28",
             "stars": 5232,
-            "forks": 591
+            "forks": 591,
+            "owner": "armory3d",
+            "repo": "armorpaint"
           }
         ],
         "C#": [
@@ -59574,7 +59736,9 @@
             "issueNumber": 126,
             "issueDate": "2026-09-28",
             "stars": 862,
-            "forks": 59
+            "forks": 59,
+            "owner": "RayrenSX",
+            "repo": "iPhoneMirror"
           },
           {
             "id": "QL-Win/QuickLook",
@@ -59587,7 +59751,9 @@
             "issueNumber": 126,
             "issueDate": "2026-09-28",
             "stars": 25010,
-            "forks": 1329
+            "forks": 1329,
+            "owner": "QL-Win",
+            "repo": "QuickLook"
           },
           {
             "id": "RankFTW/RHI",
@@ -59600,7 +59766,9 @@
             "issueNumber": 126,
             "issueDate": "2026-09-28",
             "stars": 1804,
-            "forks": 58
+            "forks": 58,
+            "owner": "RankFTW",
+            "repo": "RHI"
           }
         ],
         "C++": [
@@ -59615,7 +59783,9 @@
             "issueNumber": 126,
             "issueDate": "2026-09-28",
             "stars": 30970,
-            "forks": 2032
+            "forks": 2032,
+            "owner": "flameshot-org",
+            "repo": "flameshot"
           }
         ],
         "Go": [
@@ -59630,7 +59800,9 @@
             "issueNumber": 126,
             "issueDate": "2026-09-28",
             "stars": 44,
-            "forks": 5
+            "forks": 5,
+            "owner": "bilirec",
+            "repo": "bilirec"
           },
           {
             "id": "rakyll/hey",
@@ -59643,7 +59815,9 @@
             "issueNumber": 126,
             "issueDate": "2026-09-28",
             "stars": 20324,
-            "forks": 1308
+            "forks": 1308,
+            "owner": "rakyll",
+            "repo": "hey"
           },
           {
             "id": "kserve/kserve",
@@ -59656,7 +59830,9 @@
             "issueNumber": 126,
             "issueDate": "2026-09-28",
             "stars": 6028,
-            "forks": 1706
+            "forks": 1706,
+            "owner": "kserve",
+            "repo": "kserve"
           },
           {
             "id": "Jinnrry/PMail",
@@ -59669,7 +59845,9 @@
             "issueNumber": 126,
             "issueDate": "2026-09-28",
             "stars": 2112,
-            "forks": 237
+            "forks": 237,
+            "owner": "Jinnrry",
+            "repo": "PMail"
           }
         ],
         "JavaScript": [
@@ -59684,7 +59862,9 @@
             "issueNumber": 126,
             "issueDate": "2026-09-28",
             "stars": 13071,
-            "forks": 583
+            "forks": 583,
+            "owner": "sirmalloc",
+            "repo": "ccstatusline"
           },
           {
             "id": "riba2534/claude-opus-5-5-demo",
@@ -59697,7 +59877,9 @@
             "issueNumber": 126,
             "issueDate": "2026-09-28",
             "stars": 857,
-            "forks": 127
+            "forks": 127,
+            "owner": "riba2534",
+            "repo": "claude-opus-5-5-demo"
           },
           {
             "id": "tianma-if/edgeever",
@@ -59710,7 +59892,9 @@
             "issueNumber": 126,
             "issueDate": "2026-09-28",
             "stars": 1620,
-            "forks": 901
+            "forks": 901,
+            "owner": "tianma-if",
+            "repo": "edgeever"
           },
           {
             "id": "davatron5000/microlighter",
@@ -59723,7 +59907,9 @@
             "issueNumber": 126,
             "issueDate": "2026-09-28",
             "stars": 956,
-            "forks": 29
+            "forks": 29,
+            "owner": "davatron5000",
+            "repo": "microlighter"
           },
           {
             "id": "OpenMouse-Project/openmouse",
@@ -59736,7 +59922,9 @@
             "issueNumber": 126,
             "issueDate": "2026-09-28",
             "stars": 2046,
-            "forks": 132
+            "forks": 132,
+            "owner": "OpenMouse-Project",
+            "repo": "openmouse"
           }
         ],
         "Python": [
@@ -59751,7 +59939,9 @@
             "issueNumber": 126,
             "issueDate": "2026-09-28",
             "stars": 7609,
-            "forks": 541
+            "forks": 541,
+            "owner": "ChenLiu-1996",
+            "repo": "figures4papers"
           },
           {
             "id": "flet-dev/flet",
@@ -59764,7 +59954,9 @@
             "issueNumber": 126,
             "issueDate": "2026-09-28",
             "stars": 17138,
-            "forks": 712
+            "forks": 712,
+            "owner": "flet-dev",
+            "repo": "flet"
           },
           {
             "id": "kr8s-org/kr8s",
@@ -59777,7 +59969,9 @@
             "issueNumber": 126,
             "issueDate": "2026-09-28",
             "stars": 976,
-            "forks": 71
+            "forks": 71,
+            "owner": "kr8s-org",
+            "repo": "kr8s"
           },
           {
             "id": "WooHooDai/linkding-cn",
@@ -59790,7 +59984,9 @@
             "issueNumber": 126,
             "issueDate": "2026-09-28",
             "stars": 371,
-            "forks": 16
+            "forks": 16,
+            "owner": "WooHooDai",
+            "repo": "linkding-cn"
           },
           {
             "id": "r0x0r/pywebview",
@@ -59803,7 +59999,9 @@
             "issueNumber": 126,
             "issueDate": "2026-09-28",
             "stars": 6054,
-            "forks": 637
+            "forks": 637,
+            "owner": "r0x0r",
+            "repo": "pywebview"
           }
         ],
         "Rust": [
@@ -59818,7 +60016,9 @@
             "issueNumber": 126,
             "issueDate": "2026-09-28",
             "stars": 13000,
-            "forks": 319
+            "forks": 319,
+            "owner": "Canop",
+            "repo": "broot"
           },
           {
             "id": "sharkdp/numbat",
@@ -59831,7 +60031,9 @@
             "issueNumber": 126,
             "issueDate": "2026-09-28",
             "stars": 2712,
-            "forks": 119
+            "forks": 119,
+            "owner": "sharkdp",
+            "repo": "numbat"
           },
           {
             "id": "sigoden/window-switcher",
@@ -59844,7 +60046,9 @@
             "issueNumber": 126,
             "issueDate": "2026-09-28",
             "stars": 1106,
-            "forks": 78
+            "forks": 78,
+            "owner": "sigoden",
+            "repo": "window-switcher"
           }
         ],
         "Skills": [
@@ -59859,7 +60063,9 @@
             "issueNumber": 126,
             "issueDate": "2026-09-28",
             "stars": 3488,
-            "forks": 445
+            "forks": 445,
+            "owner": "yang0",
+            "repo": "handraw-style"
           },
           {
             "id": "xingkongliang/skills-manager",
@@ -59872,7 +60078,9 @@
             "issueNumber": 126,
             "issueDate": "2026-09-28",
             "stars": 5105,
-            "forks": 438
+            "forks": 438,
+            "owner": "xingkongliang",
+            "repo": "skills-manager"
           },
           {
             "id": "geeklee/srt-whiteboard-animation",
@@ -59885,7 +60093,9 @@
             "issueNumber": 126,
             "issueDate": "2026-09-28",
             "stars": 3637,
-            "forks": 586
+            "forks": 586,
+            "owner": "geeklee",
+            "repo": "srt-whiteboard-animation"
           },
           {
             "id": "lhlGitHub/threejs-architecture-effects",
@@ -59898,7 +60108,9 @@
             "issueNumber": 126,
             "issueDate": "2026-09-28",
             "stars": 366,
-            "forks": 53
+            "forks": 53,
+            "owner": "lhlGitHub",
+            "repo": "threejs-architecture-effects"
           }
         ],
         "Swift": [
@@ -59913,7 +60125,9 @@
             "issueNumber": 126,
             "issueDate": "2026-09-28",
             "stars": 520,
-            "forks": 23
+            "forks": 23,
+            "owner": "iAmCorey",
+            "repo": "birth"
           },
           {
             "id": "thaw-app/Thaw",
@@ -59926,7 +60140,9 @@
             "issueNumber": 126,
             "issueDate": "2026-09-28",
             "stars": 11579,
-            "forks": 283
+            "forks": 283,
+            "owner": "thaw-app",
+            "repo": "Thaw"
           },
           {
             "id": "abue-ammar/tinycast",
@@ -59939,7 +60155,9 @@
             "issueNumber": 126,
             "issueDate": "2026-09-28",
             "stars": 7641,
-            "forks": 390
+            "forks": 390,
+            "owner": "abue-ammar",
+            "repo": "tinycast"
           },
           {
             "id": "Lakr233/vphone-cli",
@@ -59952,7 +60170,9 @@
             "issueNumber": 126,
             "issueDate": "2026-09-28",
             "stars": 14601,
-            "forks": 1716
+            "forks": 1716,
+            "owner": "Lakr233",
+            "repo": "vphone-cli"
           }
         ],
         "人工智能": [
@@ -59967,7 +60187,9 @@
             "issueNumber": 126,
             "issueDate": "2026-09-28",
             "stars": 16596,
-            "forks": 883
+            "forks": 883,
+            "owner": "citrolabs",
+            "repo": "ego-lite"
           },
           {
             "id": "baidu-baige/LoongForge",
@@ -59980,7 +60202,9 @@
             "issueNumber": 126,
             "issueDate": "2026-09-28",
             "stars": 599,
-            "forks": 54
+            "forks": 54,
+            "owner": "baidu-baige",
+            "repo": "LoongForge"
           },
           {
             "id": "stablyai/orca",
@@ -59993,7 +60217,9 @@
             "issueNumber": 126,
             "issueDate": "2026-09-28",
             "stars": 80017,
-            "forks": 5224
+            "forks": 5224,
+            "owner": "stablyai",
+            "repo": "orca"
           },
           {
             "id": "TencentCloud/TencentDB-Agent-Memory",
@@ -60006,7 +60232,9 @@
             "issueNumber": 126,
             "issueDate": "2026-09-28",
             "stars": 27384,
-            "forks": 2637
+            "forks": 2637,
+            "owner": "TencentCloud",
+            "repo": "TencentDB-Agent-Memory"
           },
           {
             "id": "multimodal-art-projection/YuE",
@@ -60019,7 +60247,9 @@
             "issueNumber": 126,
             "issueDate": "2026-09-28",
             "stars": 10468,
-            "forks": 1196
+            "forks": 1196,
+            "owner": "multimodal-art-projection",
+            "repo": "YuE"
           }
         ],
         "其它": [
@@ -60034,7 +60264,9 @@
             "issueNumber": 126,
             "issueDate": "2026-09-28",
             "stars": 1941,
-            "forks": 317
+            "forks": 317,
+            "owner": "okalachev",
+            "repo": "flix"
           },
           {
             "id": "arnegiacomo/fugleramme",
@@ -60047,7 +60279,9 @@
             "issueNumber": 126,
             "issueDate": "2026-09-28",
             "stars": 3420,
-            "forks": 98
+            "forks": 98,
+            "owner": "arnegiacomo",
+            "repo": "fugleramme"
           },
           {
             "id": "pollen-robotics/microduck",
@@ -60060,7 +60294,9 @@
             "issueNumber": 126,
             "issueDate": "2026-09-28",
             "stars": 8890,
-            "forks": 1137
+            "forks": 1137,
+            "owner": "pollen-robotics",
+            "repo": "microduck"
           },
           {
             "id": "pgsty/pigsty",
@@ -60073,7 +60309,9 @@
             "issueNumber": 126,
             "issueDate": "2026-09-28",
             "stars": 5710,
-            "forks": 386
+            "forks": 386,
+            "owner": "pgsty",
+            "repo": "pigsty"
           }
         ]
       }
