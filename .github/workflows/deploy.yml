@@ -37,7 +37,7 @@ jobs:
         run: npx netlify-cli deploy --dir=dist --prod --message "Deploy from GitHub Actions"
         env:
           NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
-          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
+          NETLIFY_SITE_ID: 541a5c2d-15d2-408b-8efa-5299e7f70f01
 
       - name: Commit updated data
         run: |
